@@ -1,1 +1,1 @@
-This is the repository for [derekogle.com](http://derekogle.com/)
+Source for my personal website.

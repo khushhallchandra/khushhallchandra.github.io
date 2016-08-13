@@ -17,7 +17,7 @@ body {
 }
 
 .circularImage {
-  border-radius: 50%;
+  border-radius: 70%;
 }
 
 .text-vertical-center {
@@ -35,6 +35,10 @@ body {
 }
 
 .fa-linkedin {
+color: black;
+}
+
+.fa-envelop {
 color: black;
 }
 

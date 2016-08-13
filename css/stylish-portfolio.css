@@ -16,6 +16,9 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.circular--square {
+  border-radius: 50%;
+}
 .text-vertical-center {
     display: table-cell;
     text-align: center;

@@ -16,7 +16,7 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-.circular--square {
+.circularImage {
   border-radius: 50%;
 }
 .text-vertical-center {
@@ -30,7 +30,7 @@ body {
     padding: 0;
     font-size: 4.5em;
     font-weight: 700;
-    color: #fff;
+    color: white;
 }
 
 /* Custom Button Styles */

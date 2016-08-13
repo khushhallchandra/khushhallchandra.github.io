@@ -171,6 +171,10 @@ hr.small {
 
 .about {
     padding: 50px 0;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url(../img/bg.jpg) no-repeat center center scroll;
 }
 
 /* Services */

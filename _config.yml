@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Jalpc"
-description: "Jack's blog,use Jekyll and github pages."
-keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
+title: "Khushhall"
+description: "My webpage"
+keywords: "Khushhall"
 
 baseurl: "/"
 url: "https://khushhallchandra.github.io/"
@@ -32,8 +32,8 @@ jingyu:
 
 # landing page
 landing:
+  home: 'Home'
   about: 'About'
-  career: 'Career'
   skills: 'Skills'
   projects: 'Project'
   blog: 'Blog'

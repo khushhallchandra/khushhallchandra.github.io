@@ -34,6 +34,10 @@ body {
     font-weight: 700;
 }
 
+#icons{
+    margin: 10px auto;
+}
+
 .fa-github {
 color: black;
 padding-right: 20px;

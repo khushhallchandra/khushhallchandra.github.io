@@ -36,7 +36,22 @@ body {
 
 .fa-linkedin {
 color: black;
-font-size: 5em;
+font-size: 7em;
+}
+
+.fa-github {
+color: black;
+font-size: 7em;
+}
+
+.fa-linkedin {
+color: black;
+font-size: 7em;
+}
+
+.fa-instagram {
+color: black;
+font-size: 7em;
 }
 
 /* Custom Button Styles */

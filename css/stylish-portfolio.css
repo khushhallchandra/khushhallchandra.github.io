@@ -29,7 +29,7 @@ body {
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
-    color: black;
+    color: white;
     font-size: 4.5em;
     font-weight: 700;
 }
@@ -221,7 +221,7 @@ hr.small {
     font-weight: 700;
 }*/
 
-.col-lg-12 text-center p {
+.col-lg-12 p {
     padding: 20;
     width: 100%;
     height: 100%;

@@ -34,6 +34,11 @@ body {
     font-weight: 700;
 }
 
+.fa-github {
+color: black;
+padding-right: 10px;
+}
+
 .fa-linkedin {
 color: black;
 padding-right: 10px;
@@ -41,14 +46,12 @@ padding-right: 10px;
 
 .fa-envelop {
 color: black;
+padding-right: 10px;
 }
 
-.fa-github {
+.fa-facebook {
 color: black;
-}
-
-.fa-linkedin {
-color: black;
+padding-right: 10px;
 }
 
 .fa-instagram {

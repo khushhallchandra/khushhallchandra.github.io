@@ -207,7 +207,16 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
-.col-lg-12 text-center h2 {
+.col-lg-12 h2 {
+    font-size: 4.5em;
+    font-weight: 700;
+}
+
+
+.text-vertical-center h1 {
+    margin: 0;
+    padding: 0;
+    color: black;
     font-size: 4.5em;
     font-weight: 700;
 }

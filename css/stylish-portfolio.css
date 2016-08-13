@@ -34,9 +34,9 @@ body {
     font-weight: 700;
 }
 
-.icons i{
-    font-size: 150%;
-    padding: 0.2em;
+.fa-linkedin {
+color: black;
+font-size: 5em;
 }
 
 /* Custom Button Styles */

@@ -28,9 +28,9 @@ body {
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
+    color: white;
     font-size: 4.5em;
     font-weight: 700;
-    color: white;
 }
 
 /* Custom Button Styles */

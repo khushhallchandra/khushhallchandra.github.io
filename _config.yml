@@ -1,8 +1,12 @@
-name: Khushhall Chandra Mahajan
-author: Khushhall Chandra Mahajan
+name: Khushhall
+author: Khushhall
+#Publish URL
 baseurl: /
-description: theme for jekyll
-github: http://www.github.com/arnp
+#Test URl
+#baseurl: /shawn
+description: My life is colorful
+github: http://www.github.com/Shawn1993
+projecturl: https://github.com/Shawn1993/Shawn1993.github.io
 twitter: http://www.twitter.com/
 facebook: http://www.facebook.com
 linkedin: http://www.linkedin.com

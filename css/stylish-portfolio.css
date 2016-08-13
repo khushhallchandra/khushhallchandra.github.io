@@ -180,11 +180,11 @@ hr.small {
     -o-background-size: cover;
 }
 .col-lg-12 text-center h2 {
-    margin:auto;
+    margin: 0;
     padding: 0;
     color: darkblue;
-    font-size: 7.5em;
-    font-weight: 900;
+    font-size: 4.5em;
+    font-weight: 700;
 }
 
 .col-lg-12 text-center p {

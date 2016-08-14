@@ -229,10 +229,11 @@ hr.small {
     margin-right: 10px;
     margin-bottom: 10px;
     height: 100%;*/
+    margin:auto;
     width: 100%;
     color: black;
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 1.2em;
+    font-size: 1.4em;
     font-weight: 300;
 }
 

@@ -16,8 +16,10 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-.circularImage {
+.img-circle {
   border-radius: 50%;
+  width: 100px;
+  height: 100px;
 }
 
 .text-vertical-center {

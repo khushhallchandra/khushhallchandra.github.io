@@ -207,7 +207,7 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
-.col-lg-12 h2 {
+.col-md-6 h2 {
     padding: 100;
     margin-left: 10px;
     margin-right: 10px;
@@ -218,7 +218,7 @@ hr.small {
     font-weight: 700;
 }
 
-.col-lg-12 p {
+.col-md-6 p {
     padding: 20;
     margin-left: 10px;
     margin-right: 10px;

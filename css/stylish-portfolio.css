@@ -263,6 +263,17 @@ hr.small {
 
 /* Portfolio */
 
+#portfolio {
+    padding: 100px 100px;
+    width: 100%;
+    height: 100%;
+    background:white no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 #portfolio .section-heading{
     padding: 50;
     font-color: black;

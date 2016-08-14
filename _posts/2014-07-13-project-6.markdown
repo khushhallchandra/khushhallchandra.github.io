@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Extended the Convolutional Chair Generation model by Dosovitskiy et al. for a 3-DOF CRS Robot. Reconstruction of robot poses using joint angles and viewpoint enables us to perform local planning by checking obstacle intersection in the image space by key-point mapping. This in turn helps build the final PRM for robot path planning. Currently working on creating an example dataset of the CRS-Robot for the model.
 
 ---

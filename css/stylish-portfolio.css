@@ -263,7 +263,11 @@ hr.small {
 
 /* Portfolio */
 
-
+#portfolio .section-heading{
+    margin: auto;
+    font-size: 20px;
+    color: #fff;
+}
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;

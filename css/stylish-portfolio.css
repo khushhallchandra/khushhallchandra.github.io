@@ -264,9 +264,8 @@ hr.small {
 /* Portfolio */
 
 #portfolio .section-heading{
-    margin: auto;
     padding: 20;
-    font-size: 20px;
+    font-size: 50px;
     color: black;
 }
 #portfolio .portfolio-item {

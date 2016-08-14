@@ -265,8 +265,9 @@ hr.small {
 
 #portfolio .section-heading{
     padding: 50;
-    font-size: 100%;
-    color: black;
+    font-color: black;
+    font-size: 4.0em;
+    font-weight: 700;
 }
 #portfolio .portfolio-item {
     right: 0;

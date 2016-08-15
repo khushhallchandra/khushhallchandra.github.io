@@ -208,10 +208,10 @@ hr.small {
     height: 100%;
     margin:auto;
     background:white repeat center center scroll;
-    /*-webkit-background-size: cover;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;*/
+    -o-background-size: cover;
 }
 
 .col-lg-12 .col-md-6 h2 {

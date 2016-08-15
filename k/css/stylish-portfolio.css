@@ -204,10 +204,10 @@ hr.small {
 
 .about {
     padding: 100px 100px;
-/*    width: 100%;
-    height: 100%;*/
+    width: 100%;
+    height: 100%;
     margin:auto;
-    background:white ;
+    background:white no-repeat center center scroll;
     /*-webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;

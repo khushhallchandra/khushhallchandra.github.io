@@ -2,7 +2,17 @@
 <html lang="en">
 
 <head>
+<!-- material theme just testing
+start here -->
+<!--Import Google Icon Font-->
+      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
 
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+      <!-- END here -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,6 +42,11 @@
 
 <body>
 
+<!--Import jQuery before materialize.js-->
+      <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+
+   <!-- the above code is fpor trial    -->
     <!-- Navigation -->
     <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
     <nav id="sidebar-wrapper">
@@ -90,31 +105,7 @@
         <!-- /.container -->
     </section>
 
-    <!-- Services -->
 
-    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-    <section id="services" class="services bg-primary">
-      <div class="container text-center">
-        <div class="row text-center">
-          <div class="col-lg-10 col-lg-offset-1">
-            <h2>My Resume</h2>
-            <hr class="small">
-            <div class="row" text-center>
-              <a href="https://www.google.co.in">
-                <img src="img/res_icon.png">
-              </a>
-               <!-- <h4>
-                <strong>Resume</strong>
-               </h4> -->
-            </div>
-            <!-- /.row (nested) -->
-          </div>
-          <!-- /.col-lg-10 -->
-        </div>
-        <!-- /.row -->
-      </div>
-      <!-- /.container -->
-    </section>    
 
     <!-- Callout -->
   <!--   <aside class="callout">
@@ -128,7 +119,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h2>Our Work</h2>
+                    <h2>Projects</h2>
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-6">
@@ -170,18 +161,151 @@
         <!-- /.container -->
     </section>
 
-    <!-- Call to Action -->
-    <aside class="call-to-action bg-primary">
+    <!-- course -->
+    <section id="courses" class="courses">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h3>The buttons below are impossible to resist.</h3>
-                    <a href="#" class="btn btn-lg btn-light">Click Me!</a>
-                    <a href="#" class="btn btn-lg btn-dark">Look at Me!</a>
+                <div class="courses-item text-left">
+                    <h1>Courses</h1>
+                    <!-- <h2>Computer Science</h2>
+                    <p>-Advanced Machine Learning <br>
+                       -Machine Learning<br>
+                       -Foundations of Intelligent and Learning Agents<br>
+                       -Digital Image Processing<br>
+                       -Computer Vision -->
+                      <!-- <table class="table">
+                          <thead>
+                            <tr>
+                              
+                              <th>First Name</th>
+                              <th>Last Name</th>
+                              <th>Username</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <th scope="row">1</th>
+                              <td>Mark</td>
+                              <td>Otto</td>
+                              <td>@mdo</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">2</th>
+                              <td>Jacob</td>
+                              <td>Thornton</td>
+                              <td>@fat</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">3</th>
+                              <td>Larry</td>
+                              <td>the Bird</td>
+                              <td>@twitter</td>
+                            </tr>
+                          </tbody>
+                        </table> -->
+
+<div class="col-sm-4">
+
+  <div class="panel panel-default">
+    <div class="panel-heading">Computer Science </div>
+      <div class="panel-body ">
+  
+        <table class="table table-condensed table-summary table-borderless ">
+            <tbody>
+            <tr>
+                <td><b>Advanced Machine Learning</b></td>
+            </tr>
+            <tr>
+                <td><b>Machine Learning</b></td>
+            </tr>
+            <tr>
+                <td><b>Foundations of Intelligent and Learning Agents</b></td>
+            </tr>
+            <tr>
+              <td><b>Digital Image Processing</b></td>
+            </tr>
+            <tr>
+                <td><b>Computer Vision</b></td>
+            </tr>
+            </tbody>
+        </table>
+        
+        </div>
+  </div>
+</div>
+
+        
+<div class="col-sm-4">
+  <div class="panel panel-default">
+      <div class="panel-heading">Electrical Engineering</div>
+      <div class="panel-body ">
+        <table class="table table-condensed table-summary table-borderless ">
+            <tbody>
+            <tr>
+                <td><b>EE677 Foundation of VLSI CAD</b></td>
+            </tr>
+            <tr>
+                <td><b>EE338 Digital Signal Processing + Lab</b></td>
+            </tr>
+            <tr>
+                <td><b>EE328 Digital Communications</b></td>
+            </tr>
+            <tr>
+                <td><b>EE309 Microprocessors + Lab</b></td>
+            </tr>
+            <tr>
+                <td><b>EE210 Signals &amp Systems</b></td>
+            </tr>
+            <tr>
+                <td><b>EE308 Communication Systems + Lab</b></td>
+            </tr>                        
+           </tbody>
+        </table>
+
+    </div>
+  </div>
+
+</div>
+<!-- 
+<div class="clearfix">
+<a href="#" class="btn btn-primary">Back</a>
+</div> -->
+
+           
+                    
+                    </p>
                 </div>
             </div>
+            <!-- /.row -->
         </div>
-    </aside>
+        <!-- /.container -->
+    </section>
+
+    <!-- Services -->
+
+    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
+    <section id="services" class="services bg-primary">
+      <div class="container text-center">
+        <div class="row text-center">
+          <div class="col-lg-10 col-lg-offset-1">
+            <h2>My Resume</h2>
+            <hr class="small">
+            <div class="row" text-center>
+              <a href="https://www.google.co.in">
+                <img src="img/res_icon.png">
+              </a>
+               <!-- <h4>
+                <strong>Resume</strong>
+               </h4> -->
+            </div>
+            <!-- /.row (nested) -->
+          </div>
+          <!-- /.col-lg-10 -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container -->
+    </section>    
 
 
     <!-- Footer -->
@@ -189,7 +313,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h4><strong>Start Bootstrap</strong>
+               <!--      <h4><strong>Start Bootstrap</strong>
                     </h4>
                     <p>3481 Melrose Place
                         <br>Beverly Hills, CA 90210</p>
@@ -198,8 +322,8 @@
                         <li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:name@example.com">name@example.com</a>
                         </li>
                     </ul>
-                    <br>
-                    <ul class="list-inline">
+                    <br> -->
+           <!--          <ul class="list-inline">
                         <li>
                             <a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
                         </li>
@@ -209,9 +333,9 @@
                         <li>
                             <a href="#"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
                         </li>
-                    </ul>
+                    </ul> -->
                     <hr class="small">
-                    <p class="text-muted">Copyright &copy; Your Website 2014</p>
+                    <p class="text-muted">Copyright &copy; 2016 Khushhall Chandra Mahajan </p>
                 </div>
             </div>
         </div>

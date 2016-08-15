@@ -385,7 +385,7 @@ hr.small {
 #course .courses-item h2{
     padding: 0;
     color: black;
-    margin-left: 5%;
+    margin-left: 10%;
     font-size: 3.0em;
     font-weight: 600;
 }
@@ -393,7 +393,7 @@ hr.small {
 #course .courses-item p{
     padding: 0;
     color: black;
-    margin-left: 15%;
+    margin-left: 20px;
     font-size: 2.5em;
     font-weight: 500;
 }

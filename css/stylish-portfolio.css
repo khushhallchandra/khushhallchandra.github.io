@@ -376,15 +376,24 @@ hr.small {
     -o-background-size: cover;
 }
 
-#course courses-item h1{
+#course .courses-item h1{
     padding: 0;
     color: black;
     font-size: 4.0em;
     font-weight: 700;
 }
-#course courses-item h2{
+#course .courses-item h2{
     padding: 0;
     color: black;
+    margin-left: 5%;
+    font-size: 3.0em;
+    font-weight: 600;
+}
+
+#course .courses-item p{
+    padding: 0;
+    color: black;
+    margin-left: 15%;
     font-size: 2.5em;
     font-weight: 500;
 }

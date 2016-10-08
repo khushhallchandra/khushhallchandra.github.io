@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            
+title: Khushhall
 locale:           en_US
-url:
+url: https://khushhallchandra.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/

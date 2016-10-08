@@ -1,21 +1,21 @@
 ---
 layout: page
 title: Contact
-tags: [satwik, kottur, contact, graduate, cmu]
+tags: [khushhall, chandra, mahajan, contact, undergraduate, IIT, Bombay, Microsoft Research]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
 You can contact me at :
 
-**Satwik Kottur**  
+**Khushhall Chandra Mahajan**  
 Email:  
 
-* skottur [at] andrew [dot] cmu [dot] edu
-* satwik27 [at] gmail [dot] com
+* khushhall [at] iitb [dot] ac [dot] in
+* khushhall [at] outlook [dot] com
 
 Address:  
-B10, Porter Hall,  
-5000 Forbes,  
-Carnegie Mellon University,  
-Pittsburgh, PA - 15213.  
+226,H-6,  
+IIT-Bombay,  
+Mumbai,  
+Maharashtra, IN - 400076.  

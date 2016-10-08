@@ -29,7 +29,7 @@ owner:
   position: Dual Degree Student
   school: IIT Bombay
   place: Mumbai.
-  bio: #"Graduate student<br/>ECE Department&#13;&#10;Carnegie Mellon University&#13;&#10;Pittsburgh, PA"
+  bio: #"Dual Degree student<br/>EE Department&#13;&#10;IIT Bombay&#13;&#10;Mumbai"
   email: khushhall@outlook.com
   disqus-shortname:
   twitter: #username
@@ -43,7 +43,7 @@ owner:
   bing-verify:
   github: khushhallchandra
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin:  #username
+  linkedin:  https://www.linkedin.com/in/khushhall-chandra-62099a88
   xing: #username
   instagram: #username
   lastfm: #username

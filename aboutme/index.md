@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tags: [about, Jekyll, theme, responsive]
+tags: [khushhall, chandra, mahajan, contact, undergraduate, IIT, Bombay, Microsoft Research]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---

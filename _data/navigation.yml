@@ -6,14 +6,16 @@
 - title: Research
   url: /research/
 
-- title: Music
-  url: /music/
+- title: Projects
+  url: /projects/
+#- title: Music
+#  url: /music/
 
 - title: CV
-  url: /reports/Satwik-CV.pdf
+  url: /reports/khushhall-CV.pdf
 
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 
 - title: Courses
   url: /courses/

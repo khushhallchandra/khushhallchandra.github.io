@@ -10,7 +10,7 @@ You can find most of my course work, both during graduate and undergraduate here
 
 {% include _toc.html %}
 
-### Graduate
+<!-- ### Graduate
 * [Convex Optimization (10-725)](http://www.stat.cmu.edu/~ryantibs/convexopt/)
 * [Intermediate Statistics (36-725)](http://www.stat.cmu.edu/~larry/=stat705/)
 * [Probabilistic Graphical Models (10-708)](http://www.cs.cmu.edu/~epxing/Class/10708/)
@@ -18,42 +18,37 @@ You can find most of my course work, both during graduate and undergraduate here
 * [Computer Vision (16-720)](http://vasc.ri.cmu.edu/vision_courses/G_Course_Detail.htm#720)
 * [Introduction to Machine Learning (10-701)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/)
 
-### Undergraduate
-**Electrical Engineering**  
-
-* [Computer Vision](http://www.ee.iitb.ac.in/web/academics/courses#EE702)
-* [Image Processing](http://www.ee.iitb.ac.in/web/academics/courses#EE610)
-* [Speech Processing](http://www.ee.iitb.ac.in/web/academics/courses#EE679)
-* [Advanced Topics in Signal Processing](http://www.ee.iitb.ac.in/web/academics/courses#EE325)
-* [Digital Signal Processing](http://www.ee.iitb.ac.in/web/academics/courses#EE325)
-* [Digital Communication](http://www.ee.iitb.ac.in/web/academics/courses#EE338)
-* [Signals and Systems](http://www.ee.iitb.ac.in/web/academics/courses#EE210)
-* [Microprocessors](http://www.ee.iitb.ac.in/web/academics/courses#EE309)
-* [Power Electronics](http://www.ee.iitb.ac.in/web/academics/courses#EE222)
-* [Network Theory](http://www.ee.iitb.ac.in/web/academics/courses#EE225)
-
+### Undergraduate -->
 **Computer Science** 
 
-* [Probabilistic Graphical Models and Structured Learning](http://www.cse.iitb.ac.in/page134?course=CS+726)
-* [Introduction to Machine Learning](http://www.cse.iitb.ac.in/page134?course=CS+419)
-* [Pattern Recognition](http://www.cse.iitb.ac.in/page134?course=CS+664)
-* [Computer Graphics](http://www.cse.iitb.ac.in/page134?course=CS+475)
-* [Data Structures and Algorithms](http://www.cse.iitb.ac.in/page134?course=CS+213(M))
-* [Discrete Structures](http://www.cse.iitb.ac.in/page134?course=CS+207(M))
-* [Databases and Information Systems](http://www.cse.iitb.ac.in/page134?course=CS+317(M))
+* [Advanced Machine Learning](https://www.cse.iitb.ac.in/~sunita/cs726/)
+* [Foundations of Intelligent and Learning Agents](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2016/index.html)
+* [Computer Vision](https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2016/)
+* [Digital Image Processing](https://www.cse.iitb.ac.in/~ajitvr/CS663_Fall2015/)
 * [Computer Programming and Utilization](http://www.cse.iitb.ac.in/page134?course=CS+101)
-* [Graph Theory](https://www.cse.iitb.ac.in/page134?course=CS+408)
-* [Advanced Computer Graphics](https://www.cse.iitb.ac.in/page134?course=CS+775)
+
+**Electrical Engineering**  
+
+* [Digital Signal Processing + Lab](http://www.ee.iitb.ac.in/web/academics/courses#EE325)
+* [Digital Communication](http://www.ee.iitb.ac.in/web/academics/courses#EE338)
+* [Signals and Systems](http://www.ee.iitb.ac.in/web/academics/courses#EE210)
+* [Microprocessors + Lab](http://www.ee.iitb.ac.in/web/academics/courses#EE309)
+* [Power Electronics](http://www.ee.iitb.ac.in/web/academics/courses#EE222)
+* [Network Theory](http://www.ee.iitb.ac.in/web/academics/courses#EE225)
+* [Foundation of VLSI CAD]()
+* [Control Systems + Lab]()
+* [EE224 Digital and Analog Systems + Lab]()
+* [EE308 Communication Systems + Lab]()
+* [EE344 Electronic Design Lab]()
+* [EE301 Electromagnetic Waves]()
 
 **Mathematics**
 
 * [Probability and Random Processes](http://www.ee.iitb.ac.in/web/academics/courses#EE325")
-* [Matrix Computations](http://www.ee.iitb.ac.in/web/academics/courses#EE636")
-* [First Course in Optimization](http://www.ee.iitb.ac.in/web/academics/courses#EE659")
 * Calculus
 * Complex Analysis
 * Linear Algebra
 * Differential Equations
 * Data Analysis and Interpretation
 
-[[TOP](/research/courses/)] [[BACK](/research/)]
+<!-- [[TOP](/research/courses/)] [[BACK](/research/)] -->

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-tags: [research, satwik, kottur, cmu, graduate, iitb]
+tags: [khushhall, chandra, mahajan, contact, undergraduate, IIT, Bombay, Microsoft Research]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---

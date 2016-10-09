@@ -34,12 +34,10 @@ Such a multi-modal analysis allows us to learn complementary semantics from both
 * **Swarachakra Bangla**  
 *Internship, IIT Bombay, Summer 2014*  
 Guide: Prof. Aniruddh Joshi  
-**Description:**
-
-
+<!-- **Description:** -->
 	* Swarachakra Bangla is a touch-screen keyboard for inputting text in Bengali, the 7 th most spoken language by the total number of native speakers.
 	* It displays the consonants sequenced according to the logical structure of Bengali script, phonetically grouped and arranged in a grid similar to those found in most school textbooks.
-[[Project Page](projects/test/)] [[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)] [Logo: ![Alt](../images/iitb-logo.jpeg "Title")]
+[[Project Page](projects/test/)] [[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)] [Logo: ![Alt](../images/iitb-logo.jpeg "Title")] [:fa-github: GitHub](https://github.com/)
 
 
 

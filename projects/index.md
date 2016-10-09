@@ -41,7 +41,15 @@ Guide: Prof. Aniruddh Joshi
 - It displays the consonants sequenced according to the logical structure of Bengali script, phonetically grouped and arranged in a grid similar to those found in most school textbooks.
 [[Project Page](projects/test/)] [[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)]
 
-
+* **SSStochastic Expectation Maximization for Latent Variable Models**  
+*Convex Optimization (10-725), Fall 2015*  
+Instructor: Prof. Ryan Tibshirani  
+**Abstract:**  
+In this project, we want to implement and study a type of stochastic optimization. 
+This optimization method based on expectation-maximization will be asynchronous & embarrassingly parallel and thus is useful for inference of latent variable models. 
+The motivation for this stochastic optimization problem comes from a want to directly design a inference procedure from a "comptastical" (computational + statistical) perspective capable of leveraging modern computational resources like GPUs or cloud computing offering massive parallelism. 
+We also find some interesting connection between stochastic expectation-maximization and stochastic gradient descent strengthening validity of proposed method.  
+[[Report](/reports/F15-CO-Report.pdf){:target="_blank"}] [[Poster](/reports/F15-CO-Poster.pptx)]
 
 
 

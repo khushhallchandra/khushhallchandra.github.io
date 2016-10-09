@@ -37,7 +37,8 @@ Guide: Prof. Aniruddh Joshi
 <!-- **Description:** -->
 	* Improvised the existing Swarachakra code-base to develop a version in Bangla
 	* Conceptualised the design and layout of the keyboard for a better user experience
-	* Swarachakra Bangla has attracted over 100,000 downloads on Google Play Store
+	* Swarachakra Bangla has attracted over 100,000 downloads on Google Play Store      
+	
 	[[Project Page](projects/test/)] [[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)]
 
 

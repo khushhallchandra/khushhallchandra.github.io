@@ -35,9 +35,10 @@ Such a multi-modal analysis allows us to learn complementary semantics from both
 *Internship, IIT Bombay, Summer 2014*  
 Guide: Prof. Aniruddh Joshi  
 <!-- **Description:** -->
-	* Swarachakra Bangla is a touch-screen keyboard for inputting text in Bengali, the 7 th most spoken language by the total number of native speakers.
-	* It displays the consonants sequenced according to the logical structure of Bengali script, phonetically grouped and arranged in a grid similar to those found in most school textbooks.
-[[Project Page](projects/test/)] [[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)]
+	* Improvised the existing Swarachakra code-base to develop a version in Bangla
+	* Conceptualised the design and layout of the keyboard for a better user experience
+	* Swarachakra Bangla has attracted over 100,000 downloads on Google Play Store
+	[[Project Page](projects/test/)] [[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)]
 
 
 * **ASC Visualization Kit**  
@@ -46,7 +47,6 @@ Guide: Prof. Shankar Balachandran
 	* Developed a Django application to enable the student community to have a better access to academic data
 	* Used data scrapping techniques viz. Selenium for collecting data from the web
 	* Winner of the Facebook hackathon for the best utility project in the institute
-
 [[Report](http://homepages.iitb.ac.in/~khushhall/application-software-cell.pdf)] 
 
 
@@ -62,7 +62,6 @@ Guide: Prof. Shankar Balachandran
 Guide: Prof. V.M. Gadre
 	* Used an algorithm based on Fourier shift theorem for image mosaicing
 	* The project was ranked among the top 3 in the whole batch.
-
 [[Code](https://github.com/khushhallchandra/Image-Mosaicing)] 
 
 

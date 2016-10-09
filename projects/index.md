@@ -38,7 +38,7 @@ Guide: Prof. Aniruddh Joshi
 	* Improvised the existing Swarachakra code-base to develop a version in Bangla
 	* Conceptualised the design and layout of the keyboard for a better user experience
 	* Swarachakra Bangla has attracted over 100,000 downloads on Google Play Store      
-	
+
 	[[Project Page](projects/test/)] [[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)]
 
 
@@ -48,7 +48,7 @@ Guide: Prof. Shankar Balachandran
 	* Developed a Django application to enable the student community to have a better access to academic data
 	* Used data scrapping techniques viz. Selenium for collecting data from the web
 	* Winner of the Facebook hackathon for the best utility project in the institute
-[[Report](http://homepages.iitb.ac.in/~khushhall/application-software-cell.pdf)] 
+	[[Report](http://homepages.iitb.ac.in/~khushhall/application-software-cell.pdf)] 
 
 
 ### Computer Vision
@@ -63,7 +63,7 @@ Guide: Prof. Shankar Balachandran
 Guide: Prof. V.M. Gadre
 	* Used an algorithm based on Fourier shift theorem for image mosaicing
 	* The project was ranked among the top 3 in the whole batch.
-[[Code](https://github.com/khushhallchandra/Image-Mosaicing)] 
+	[[Code](https://github.com/khushhallchandra/Image-Mosaicing)] 
 
 
 

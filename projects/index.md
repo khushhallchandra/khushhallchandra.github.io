@@ -31,7 +31,34 @@ Such a multi-modal analysis allows us to learn complementary semantics from both
 
 ### Machine Learning
 
-* **Stochastic Expectation Maximization for Latent Variable Models**  
+* **Swarachakra Bangla**  
+*Internship, IIT Bombay, Summer 2014*  
+Guide: Prof. Aniruddh Joshi  
+<!-- **Abstract:**  --> 
+
+
+- Swarachakra Bangla is a touch-screen keyboard for inputting text in Bengali, the 7 th most spoken language by the total number of native speakers.
+- It displays the consonants sequenced according to the logical structure of Bengali script, phonetically grouped and arranged in a grid similar to those found in most school textbooks.
+[[Project Page](projects/test/)] [[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- * **Stochastic Expectation Maximization for Latent Variable Models**  
 *Convex Optimization (10-725), Fall 2015*  
 Instructor: Prof. Ryan Tibshirani  
 **Abstract:**  
@@ -114,7 +141,31 @@ Matsya (sanskrit word for fish) is the AUV from IIT Bombay to participate in the
 Guide: Prof. Sachin Patkar  
 **Abstract:**  
 Digital designs, before synthesis, are simulated on a computer platform to test their efficiency. Maximizing the performance and minimizing the overheads is, therefore, a vital area of research. The main focus of this work is to parallelize the simulation of single clock structural/behavior hardware designs without any time or resource conflict. Thus, resulting in a multi-fold in reduction in execution time. I was awarded **Undergraduate Research Award** ([URA 01](http://www.iitb.ac.in/newacadhome/urop.jsp)) for contribution to research at IIT Bombay.  
-[[Project Page](projects/parallel-verilog/)]
+[[Project Page](projects/parallel-verilog/)] -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- -----
 

@@ -32,17 +32,24 @@ Such a multi-modal analysis allows us to learn complementary semantics from both
 ### Machine Learning
 
 * **Swarachakra Bangla**  
-*Internship, IIT Bombay, Summer 2014*  
-Guide: Prof. Aniruddh Joshi  
+*Internship, IIT Bombay, Summer 2014|Guide: Prof. Aniruddh Joshi*  
+  
 <!-- **Description:** -->
 	* Swarachakra Bangla is a touch-screen keyboard for inputting text in Bengali, the 7 th most spoken language by the total number of native speakers.
 	* It displays the consonants sequenced according to the logical structure of Bengali script, phonetically grouped and arranged in a grid similar to those found in most school textbooks.
-[[Project Page](projects/test/)] [[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)] [Logo: ![Alt](../images/iitb-logo.jpeg "Title")] [:fa-github: GitHub](https://github.com/)
+[[Project Page](projects/test/)] [[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)]
 
 
+* **ASC Visualization Kit**  
+*Software Development For Engineers, AE 425*  
+Guide: Prof. Shankar Balachandran 
+	* Developed a Django application to enable the student community to have a better access to academic data
+	* Used data scrapping techniques viz. Selenium for collecting data from the web
+	* Winner of the Facebook hackathon for the best utility project in the institute
+[[Report](http://homepages.iitb.ac.in/~khushhall/application-software-cell.pdf){:target="_blank"}] 
 
 
-
+### Computer Vision
 
 
 

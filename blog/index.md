@@ -8,6 +8,4 @@ comments: true
 
 Following are the few topics:
 
-**Computer Science** 
-
 * [LSTM-explained](topic/LSTM/)

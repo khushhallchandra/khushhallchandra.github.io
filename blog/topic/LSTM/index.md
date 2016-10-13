@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-###Autonomous Underwater Vehicle (AUV-IITB)
+### LSTM
 
 Write about LSTM here
 

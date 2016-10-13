@@ -10,5 +10,4 @@ Following are the few topics:
 
 **Computer Science** 
 
-* [LSTM-explained]((topic/LSTM/))
-
+* [LSTM-explained](topic/LSTM/)

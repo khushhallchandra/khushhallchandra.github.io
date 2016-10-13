@@ -11,10 +11,8 @@ comments: false
 Write about LSTM here
 
 <figure align="center">
-    <a href="/images/lstm.jpg"><img src="/images/lstm.jpg" width="50%" height="50%"></a>
+    <a href="/images/lstm.jpg"><img src="/images/lstm.jpg" width="60%" height="52%"></a>
     <figcaption>LSTM Gate Structure</figcaption>
 </figure><br/>
-
-
 
 

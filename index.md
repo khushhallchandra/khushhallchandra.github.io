@@ -31,18 +31,14 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
 * Checkout our latest [ArXiv Paper](http://arxiv.org/abs/1511.07067) on "Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings"
 * Checkout our [paper](http://opt-ml.org/papers/OPT2015_paper_52.pdf) on "Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models" that got accepted in NIPS: Optimization for Machine Learning ([OPT](http://opt-ml.org/papers.html)) workshop, 2015
 
+ -->
 ----
 <h4 align="center">Affiliations</h4>
 <figure align="center" class="affils">
-    <a href="http://www.cmu.edu/"><img src="/images/cmu-logo.png"></a>
+    <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/"><img src="/images/msr-logo.jpg"></a>
     <a href="http://www.iitb.ac.in/"><img src="/images/iitb-logo.jpeg"></a>
-    <a href="http://viterbi.usc.edu/"><img src="/images/viterbi-logo.jpg"></a>
-    <a href="https://www.snapchat.com/"><img src="/images/snapchat-logo.png"></a>
 </figure>
 <figure align="center" class="affils">
-    <figcaption>Carnegie Mellon University<br>2014-present</figcaption>
-    <figcaption>IIT Bombay<br>2010-2014</figcaption>
-    <figcaption>Viterbi School, USC<br>Summer 2013</figcaption>
-    <figcaption>Snapchat Inc.<br>Summer 2016</figcaption>
+    <figcaption>Microsoft Research<br>Summer 2016</figcaption>
+    <figcaption>IIT Bombay<br>2013-present</figcaption>
 </figure>
- -->

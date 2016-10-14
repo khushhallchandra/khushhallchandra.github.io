@@ -59,11 +59,14 @@ owner:
   codepen: #username
 
 comments:
-  provider               : "facebook"
+  provider               : "facebook" , "disqus"
   facebook:
     appid                : # optional
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+  disqus:
+    shortname: https-khushhallchandra-github-io
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

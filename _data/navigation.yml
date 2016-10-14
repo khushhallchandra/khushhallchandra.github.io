@@ -1,7 +1,24 @@
-# main links links
-main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+# Site navigation links
 
-  - title: "Sample Navigation Link 2"
-    url: /
+- title: Home
+  url: /
+
+#- title: Research
+#  url: /research/
+
+- title: Projects
+  url: /projects/
+#- title: Music
+#  url: /music/
+
+- title: CV
+  url: /reports/khushhall-CV.pdf
+
+- title: Blog
+  url: /blog/
+
+- title: Courses
+  url: /courses/
+
+- title: Contact
+  url: /contact/

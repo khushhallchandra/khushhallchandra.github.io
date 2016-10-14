@@ -31,7 +31,7 @@ Such a multi-modal analysis allows us to learn complementary semantics from both
 
 ### Internship
 
-1. **Anomaly Detection** 
+* **Anomaly Detection** 
 *Microsoft Research*  
 Guide: Sreangsu Acharyya
 	* Worked on a probabilistic model for detecting anomalous behavior of the system.
@@ -39,7 +39,8 @@ Guide: Sreangsu Acharyya
 	* Produced excellent result on the real data. Got auc of 95% between the predicted labels and the ground truth
 	* Currently, preparing draft for publishing the work.
 
-2. **Incremental Query Optimization** 
+
+* **Incremental Query Optimization** 
 *CSE, IIT Bombay, Summer 2015*  
 Guide: Prof. S. Sudarshan
 	* Worked on incremental search algorithm along with branch and bound pruning of the search space to improvise the Depth First Search approach used in the Volcano and Cascades Frameworks
@@ -47,7 +48,8 @@ Guide: Prof. S. Sudarshan
 	* Produced excellent result on the real data. Got auc of 95% between the predicted labels and the ground truth
 	* Improved efficiency of the cost metric in the PyroJ query optimizer to achieve the best plan for execution
 
-3. **Swarachakra Bangla**  
+
+* **Swarachakra Bangla**  
 *Internship, IIT Bombay, Summer 2014*  
 Guide: Prof. Aniruddh Joshi  
 <!-- **Description:** -->
@@ -179,33 +181,3 @@ Guide: Prof. Sachin Patkar
 **Abstract:**  
 Digital designs, before synthesis, are simulated on a computer platform to test their efficiency. Maximizing the performance and minimizing the overheads is, therefore, a vital area of research. The main focus of this work is to parallelize the simulation of single clock structural/behavior hardware designs without any time or resource conflict. Thus, resulting in a multi-fold in reduction in execution time. I was awarded **Undergraduate Research Award** ([URA 01](http://www.iitb.ac.in/newacadhome/urop.jsp)) for contribution to research at IIT Bombay.  
 [[Project Page](projects/parallel-verilog/)] -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- -----
-
-You can find my other projects from undergraduate [here](/research/oldprojects).  
-
-[Here](/research/courses/) is a list of all the courses I have taken, both during graduate and undergraduate studies. -->

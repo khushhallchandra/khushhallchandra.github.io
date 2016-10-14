@@ -59,11 +59,7 @@ owner:
   codepen: #username
 
 comments:
-  provider               : "facebook" , "disqus"
-  facebook:
-    appid                : # optional
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+  provider               : "disqus"
   disqus:
     shortname: https-khushhallchandra-github-io
 

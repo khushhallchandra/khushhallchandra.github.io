@@ -14,4 +14,4 @@ comments: true
 
 ### Important Codes
 
-* [Video Stabilization](imprtant-codes/video-stabilization/)
+* [Video Stabilization](important-codes/video-stabilization/)

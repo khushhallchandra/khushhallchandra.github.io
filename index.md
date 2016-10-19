@@ -6,10 +6,9 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am a senior undergraduate student pursuing (B.Tech + M.Tech) at Electrical Engineering Department, IIT-Bombay with specialization in Communications and Signal Processing. I'm broadly interested in the application of Deep learning, Machine Learning, Image processing, Computer Vision.
+I am a senior undergraduate student pursuing (B.Tech + M.Tech) at Electrical Engineering Department, IIT Bombay with specialization in Communications and Signal Processing. I'm broadly interested in the application of Deep learning, Machine Learning, Image processing, Computer Vision.
 
-Last summer, I did my internship at Microsoft research. I worked on probabilistic model for detecting anomalous behavior of the systems. Currently, I am working on couple of Deep learning projects. 
-
+Last summer, I did my internship at Microsoft research. Currently, I am looking for internship opportunity for the next summer.
 ----
 <h4 align="center">Affiliations</h4>
 <figure align="center" class="affils">

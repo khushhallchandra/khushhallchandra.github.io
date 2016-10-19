@@ -12,7 +12,8 @@
 #  url: /music/
 
 - title: CV
-  url: /reports/khushhall-CV.pdf
+  url: /cv
+  # url: /reports/khushhall-CV.pdf
 
 - title: Blog
   url: /blog/

@@ -8,4 +8,4 @@ comments: true
 
 <!-- [Here](/reports/khushhall-CV.pdf) is my latest cv.   -->
 Please contact me for the resume.
-*Updated: August 28, 20165*
+<!-- *Updated: August 28, 20165* -->

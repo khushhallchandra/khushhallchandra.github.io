@@ -6,7 +6,7 @@ modified: 2017-03-06T20:53:07.573882-04:00
 comments: false
 ---
 
-Some imteresting courses which I have done can be found below:
+Some interesting courses which I have done can be found below:
 
 {% include _toc.html %}
 

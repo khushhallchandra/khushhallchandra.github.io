@@ -15,16 +15,14 @@ Guide: Sreangsu Acharyya
 	* Developed an algorithm for predicting system health using multi-dimensional time series data
 	* Produced excellent result on the real data. Got auc of 95% between the predicted labels and the ground truth
 	* Currently, preparing draft for publishing the work.
-
-
+<br><br>
 * **Incremental Query Optimization**   
 *CSE, IIT Bombay, Summer 2015*  
 Guide: Prof. S. Sudarshan  
 	* Worked on incremental search algorithm along with branch and bound pruning of the search space to improvise the Depth First Search approach used in the Volcano and Cascades Frameworks
 	* Implemented Fibonnaci heap for the dynamic execution of the Task depending upon the priority
 	* Improved efficiency of the cost metric in the PyroJ query optimizer to achieve the best plan for execution
-
-
+<br><br>
 * **Swarachakra Bangla**  
 *IDC, IIT Bombay, Summer 2014*  
 Guide: Prof. Aniruddh Joshi  

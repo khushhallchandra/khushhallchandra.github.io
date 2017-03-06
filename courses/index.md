@@ -10,18 +10,11 @@ You can find most of my course work, both during graduate and undergraduate here
 
 {% include _toc.html %}
 
-<!-- ### Graduate
-* [Convex Optimization (10-725)](http://www.stat.cmu.edu/~ryantibs/convexopt/)
-* [Intermediate Statistics (36-725)](http://www.stat.cmu.edu/~larry/=stat705/)
-* [Probabilistic Graphical Models (10-708)](http://www.cs.cmu.edu/~epxing/Class/10708/)
-* [Geometry-based methods in Vision (16-822)](http://vasc.ri.cmu.edu/vision_courses/V_Course_Detail.htm#GB)
-* [Computer Vision (16-720)](http://vasc.ri.cmu.edu/vision_courses/G_Course_Detail.htm#720)
-* [Introduction to Machine Learning (10-701)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/)
-
-### Undergraduate -->
 **Computer Science** 
 
 * [Advanced Machine Learning](https://www.cse.iitb.ac.in/~sunita/cs726/)
+* [Digital Geometric Processing](https://www.cse.iitb.ac.in/~cs749/spr2017/)
+* [Medical Image Processing](https://www.cse.iitb.ac.in/~suyash/cs736/)
 * [Foundations of Intelligent and Learning Agents](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2016/index.html)
 * [Computer Vision](https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2016/)
 * [Digital Image Processing](https://www.cse.iitb.ac.in/~ajitvr/CS663_Fall2015/)

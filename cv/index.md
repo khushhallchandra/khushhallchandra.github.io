@@ -2,7 +2,7 @@
 layout: page
 title: Resume / CV
 tags: [khushhall, chandra, mahajan, contact, undergraduate, IIT, Bombay, Microsoft Research]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2017-03-06T20:53:07.573882-04:00
 comments: true
 ---
 

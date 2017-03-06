@@ -1,14 +1,19 @@
 ---
 layout: page
-title:
+title: LSTM explained
 tags: [khushhall, chandra, mahajan, LSTM, tutorial]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2017-03-08T20:53:07.573882-04:00
 comments: true
 ---
 
 ### LSTM
 
 Write about LSTM here
+
+<figure align="center">
+    <a href="/images/lstm.jpg"><img src="/images/lstm.jpg" width="60%" height="52%"></a>
+    <figcaption>LSTM Gate Structure</figcaption>
+</figure><br/>
 
 <div id="disqus_thread"></div>
 <script>
@@ -30,10 +35,3 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-<figure align="center">
-    <a href="/images/lstm.jpg"><img src="/images/lstm.jpg" width="60%" height="52%"></a>
-    <figcaption>LSTM Gate Structure</figcaption>
-</figure><br/>
-
-

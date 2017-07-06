@@ -2,8 +2,9 @@
 layout: blog-page
 title: LSTM explained
 tags: [khushhall, chandra, mahajan, LSTM, tutorial]
-modified: 2017-03-08T20:53:07.573882-04:00
+date: 2017-04-21 11:00:00
 comments: true
+mathjax: true
 ---
 
 <!-- ### LSTM -->

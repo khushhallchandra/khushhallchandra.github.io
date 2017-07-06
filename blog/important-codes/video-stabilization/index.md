@@ -1,9 +1,10 @@
 ---
 layout: blog-page
-title:
+title: Video Stabilization
 tags: [khushhall, chandra, mahajan, Video, Stabilization]
-modified: 2014-08-08T20:53:07.573882-04:00
+date: 2017-04-21 11:00:00
 comments: true
+mathjax: true
 ---
 
 <!-- ### Video Stabilization -->
@@ -16,7 +17,11 @@ Following is the sample output:
 
 [![Sample Output](https://img.youtube.com/vi/_ppjaVgVFro/0.jpg)](https://www.youtube.com/watch?v=_ppjaVgVFro)
 
-<!--[Sample Output](https://www.youtube.com/watch?v=_ppjaVgVFro)-->
+<div class="video-container">
+    <iframe src="https://www.youtube.com/watch?v=_ppjaVgVFro" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
 <div id="disqus_thread"></div>
 <script>
 

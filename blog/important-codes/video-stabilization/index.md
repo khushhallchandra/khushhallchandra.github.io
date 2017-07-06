@@ -15,12 +15,9 @@ The code can found [here](https://github.com/khushhallchandra/Computer-Vision-As
 
 Following is the sample output:
 
-[![Sample Output](https://img.youtube.com/vi/_ppjaVgVFro/0.jpg)](https://www.youtube.com/watch?v=_ppjaVgVFro)
+<!--[![Sample Output](https://img.youtube.com/vi/_ppjaVgVFro/0.jpg)](https://www.youtube.com/watch?v=_ppjaVgVFro)-->
 
-<div class="video-container">
-    <iframe src="https://www.youtube.com/watch?v=_ppjaVgVFro" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dHHmUF9gs70" frameborder="0" allowfullscreen></iframe>
 
 <div id="disqus_thread"></div>
 <script>

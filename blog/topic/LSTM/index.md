@@ -6,9 +6,9 @@ modified: 2017-03-08T20:53:07.573882-04:00
 comments: true
 ---
 
-### LSTM
+<!-- ### LSTM -->
 
-Write about LSTM here
+Before diving into what LSTM is, we first look at RNNs.
 
 <figure align="center">
     <a href="/images/lstm.jpg"><img src="/images/lstm.jpg" width="60%" height="52%"></a>

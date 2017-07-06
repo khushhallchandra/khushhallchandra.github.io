@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Khushhall Chandra Mahajan
+title: 
 locale:           en_US
 url: https://khushhallchandra.github.io
 # Jekyll configuration
@@ -30,7 +30,7 @@ owner:
   school: IIT Bombay
   place: Mumbai.
   bio: #"Dual Degree student<br/>EE Department&#13;&#10;IIT Bombay&#13;&#10;Mumbai"
-  email: khushhall@outlook.com
+  email: kcm00000@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #satwik27 #username

@@ -21,6 +21,10 @@ layout: default
 
   <article class="post-content">
   {{ content }}
+    {% if page.share != false %}
+    <hr />
+    {% include _social-share.html %}
+    {% endif %}
   </article>
 
   <!-- mathjax -->

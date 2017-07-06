@@ -13,8 +13,9 @@ Videos acquired by handheld cameras or smartphones often appear jerky or shaky d
 The code can found [here](https://github.com/khushhallchandra/Computer-Vision-Assignment/tree/master/assignment_3/4/)
 
 Following is the result:
+[![Sample Output](https://img.youtube.com/vi/_ppjaVgVFro/0.jpg)](https://www.youtube.com/watch?v=_ppjaVgVFro)
 
-[Sample Output](https://www.youtube.com/watch?v=_ppjaVgVFro)
+<!--[Sample Output](https://www.youtube.com/watch?v=_ppjaVgVFro)-->
 <div id="disqus_thread"></div>
 <script>
 

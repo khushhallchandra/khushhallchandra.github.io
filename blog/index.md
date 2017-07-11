@@ -1,14 +1,15 @@
 ---
 layout: page
 title: My Blog
-tags: [khushhall, chandra, mahajan, LSTM, tutorial]
-modified: 2014-08-08T20:53:07.573882-04:00
+tags: [khushhall, chandra, mahajan, blog, 3d, gan, video, tutorial]
+modified: 2016-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
 ### Following are the few topics:
 
-* [LSTM-explained](topic/LSTM/)
+* [3D Generative Adversarial Networks (3D GAN)](topic/3dgan/)<br /> Jun 1, 2017
+<!--* [LSTM-explained](topic/LSTM/)-->
 
 -----
 

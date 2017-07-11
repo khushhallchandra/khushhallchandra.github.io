@@ -17,7 +17,7 @@ Following is the sample output:
 
 <!--[![Sample Output](https://img.youtube.com/vi/_ppjaVgVFro/0.jpg)](https://www.youtube.com/watch?v=_ppjaVgVFro)-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_ppjaVgVFro" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=_ppjaVgVFro" width="900" height="780" style="border: none;"></iframe>
 
 <div id="disqus_thread"></div>
 <script>

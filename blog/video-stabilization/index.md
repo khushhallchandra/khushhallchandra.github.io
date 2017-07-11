@@ -17,8 +17,7 @@ Following is the sample output:
 
 <!--[![Sample Output](https://img.youtube.com/vi/_ppjaVgVFro/0.jpg)](https://www.youtube.com/watch?v=_ppjaVgVFro)-->
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/EKoxLxzWNOk" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
-
+<iframe src="http://showterm.io/someurl" width="640" height="480" style="display:block; margin: 0 auto;">&nbsp;</iframe>
 <div id="disqus_thread"></div>
 <script>
 

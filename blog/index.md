@@ -6,13 +6,10 @@ modified: 2016-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-### Following are the few topics:
+### My Explorations:
 
-* [3D Generative Adversarial Networks (3D GAN)](topic/3dgan/)<br /> Jun 1, 2017
+* [3D Generative Adversarial Networks (3D GAN)](3dgan/)<br /> Jun 1, 2017 | keras, deep learning
 <!--* [LSTM-explained](topic/LSTM/)-->
 
------
-
-### Important Codes
-
-* [Video Stabilization](important-codes/video-stabilization/)
+* [Video Stabilization](video-stabilization/)
+<br /> Feb 1, 2017 | matlab

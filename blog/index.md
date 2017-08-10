@@ -10,4 +10,5 @@ comments: false
 
 * [3D Generative Adversarial Networks (3D GAN)](3dgan/)<br /> Jun 1, 2017 | keras, deep learning
 <!--* [LSTM-explained](topic/LSTM/)-->
-* [Video Stabilization](video-stabilization/) <br /> Feb 1, 2017 | matlab
+
+* [Video Stabilization](video-stabilization/)<br /> Feb 1, 2017 | matlab

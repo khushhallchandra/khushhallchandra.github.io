@@ -1,3 +1,12 @@
+---
+layout: blog-page
+title: Brats
+tags: [khushhall, chandra, mahajan, 3d, gan, 3d-gan, tutorial]
+date: 2017-06-1 9:00:00
+comments: true
+mathjax: true
+---
+
 # Brats Introduction
 
 

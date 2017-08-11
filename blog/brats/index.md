@@ -1,12 +1,3 @@
----
-layout: page
-title: Brats
-tags: [khushhall, chandra, mahajan]
-date: 2017-04-21 11:00:00
-comments: true
-mathjax: true
----
-
 # Brats Introduction
 
 

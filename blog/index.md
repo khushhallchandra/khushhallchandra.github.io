@@ -9,8 +9,8 @@ comments: false
 ### My Explorations:
 ----
 
-* [3D Generative Adversarial Networks (3D GAN)](3dgan/) <br /> Jun 1, 2017 | keras, deep learning
+* [3D Generative Adversarial Networks (3D GAN)](3dgan/) <br /> Jun 1, 2017|keras, deep learning
 
-* [Video Stabilization](video-stabilization/) <br /> Feb 1, 2017 | matlab
+* [Video Stabilization](video-stabilization/) <br /> Feb 1, 2017|matlab
 
 <!--* [LSTM-explained](topic/LSTM/)-->

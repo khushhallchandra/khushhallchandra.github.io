@@ -21,6 +21,11 @@ The following libraries are installed on the server:
 * Scipy
 * Matplotlib
 * Ipython
+* Torch
+* Pandas
+* CV2
+* Theano
+
 
 In case you want to install some python library, execute the following:
 
@@ -29,3 +34,7 @@ In case you want to install some python library, execute the following:
 For example:
 
 `pip install keras`
+
+# Change your password
+
+`passwd <your-username>`

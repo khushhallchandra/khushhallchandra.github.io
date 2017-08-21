@@ -7,7 +7,7 @@ comments: true
 mathjax: true
 ---
 
-# Login to the server
+# Login to the server1
 
 To login into server, please open a terminal and execute the following command. 
 

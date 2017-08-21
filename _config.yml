@@ -2,7 +2,7 @@
 
 title: 
 locale:           en_US
-url: https://khushhallchandra.github.io
+url: #https://khushhallchandra.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/

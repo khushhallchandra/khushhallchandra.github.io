@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: 
-locale:           en_US
+locale: en_US
 url: #https://khushhallchandra.github.io
 # Jekyll configuration
 

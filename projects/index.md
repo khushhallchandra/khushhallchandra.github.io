@@ -16,6 +16,23 @@ Guide: Sreangsu Acharyya
 	* Produced excellent result on the real data. Got auc of 95% between the predicted labels and the ground truth
 	* Currently, preparing draft for publishing the work.
 <br><br>
+* **Brand Detection Using Deep Learning**  
+*Netra Inc.*  
+Guide: Ram Orungati 
+	* Worked on analyzing brand presence in videos by re-purposing the Faster R-CNN framework for brand detection
+	* Reduced number of frames-to-process by 90% using a dynamic frame selection method based on optical flow
+	* Processed the unique frames to recover 96% brand logos in the video using intensity histogram similarity measure
+    * Utilized a modified version of the above framework for implementing video content summarization
+<br><br>
+* **Segmentation and Classification of Web UI elements**  
+*Aalto University*  
+Guide: Prof. Antti Oulasvirta
+	* Developed an adaptive system to segment and classify personalized user interface elements
+	* The algorithms takes an image of a Web page (or URL), segments and labels Web elements present in the image
+	* Achieved 91\% F1 score in segmenting web UI elements using edge-detection based techniques and other heuristics
+	* Level of detail can be controlled such that hierarchies of element groupings can be obtained
+	* Used Random-forest as classifier. Classified the common web elements with a mean accuracy of 97.4%
+<br><br>
 * **Incremental Query Optimization**   
 *CSE, IIT Bombay, Summer 2015*  
 Guide: Prof. S. Sudarshan  
@@ -23,14 +40,6 @@ Guide: Prof. S. Sudarshan
 	* Implemented Fibonnaci heap for the dynamic execution of the Task depending upon the priority
 	* Improved efficiency of the cost metric in the PyroJ query optimizer to achieve the best plan for execution
 <br><br>
-* **Swarachakra Bangla**  
-*IDC, IIT Bombay, Summer 2014*  
-Guide: Prof. Aniruddh Joshi  
-	* Improvised the existing Swarachakra code-base to develop a version in Bangla
-	* Conceptualised the design and layout of the keyboard for a better user experience
-	* Swarachakra Bangla has attracted over 100,000 downloads on Google Play Store      
-
-	[[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)]	
 
 ### Machine Learning
 
@@ -41,18 +50,7 @@ Guide: Prof. Ajit Rajwade
 
 	[[Code](http://homepages.iitb.ac.in/~khushhall/application-software-cell.pdf)] 
 
-### Hackathon
-
-* **ASC Visualization Kit**  
-*Software Development For Engineers, AE 425*  
-Guide: Prof. Shankar Balachandran 
-	* Developed a Django application to enable the student community to have a better access to academic data
-	* Used data scrapping techniques viz. Selenium for collecting data from the web
-	* Winner of the Facebook hackathon for the best utility project in the institute
-
-	[[Report](http://homepages.iitb.ac.in/~khushhall/application-software-cell.pdf)] 
-
-### Signal Processing
+### Others
 
 * **Image Mosaicing Using Fourier Shift Theorem**  
 *EE338 : Digital Signal Processing*  
@@ -61,11 +59,19 @@ Guide: Prof. V.M. Gadre
 	* The project was ranked among the top 3 in the whole batch.
 
 	[[Code](https://github.com/khushhallchandra/Image-Mosaicing)] 
+* **Swarachakra Bangla**  
+*IDC, IIT Bombay, Summer 2014*  
+Guide: Prof. Aniruddh Joshi  
+	* Improvised the existing Swarachakra code-base to develop a version in Bangla
+	* Conceptualised the design and layout of the keyboard for a better user experience
+	* Swarachakra Bangla has attracted over 100,000 downloads on Google Play Store      
 
-### Electronics
+	[[App](https://play.google.com/store/apps/details?id=iit.android.swarachakraBengali&hl=en)]	
+* **ASC Visualization Kit**  
+*Software Development For Engineers, AE 425*  
+Guide: Prof. Shankar Balachandran 
+	* Developed a Django application to enable the student community to have a better access to academic data
+	* Used data scrapping techniques viz. Selenium for collecting data from the web
+	* Winner of the Facebook hackathon for the best utility project in the institute
 
-* **Digital Tachometer**  
-*EE112 : Introduction to Electronics*  
-Guide: Prof. J.M. Vasi
-	* Used IR LED and Photodiode to integrate a mechanical design with an electronic circuit
-	* Simulated circuits in LTSpice for preliminary design and testing
+	[[Report](http://homepages.iitb.ac.in/~khushhall/application-software-cell.pdf)] 

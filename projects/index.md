@@ -29,7 +29,7 @@ Guide: Ram Orungati
 Guide: Prof. Antti Oulasvirta
 	* Developed an adaptive system to segment and classify personalized user interface elements
 	* The algorithms takes an image of a Web page (or URL), segments and labels Web elements present in the image
-	* Achieved 91\% F1 score in segmenting web UI elements using edge-detection based techniques and other heuristics
+	* Achieved 91% F1 score in segmenting web UI elements using edge-detection based techniques and other heuristics
 	* Level of detail can be controlled such that hierarchies of element groupings can be obtained
 	* Used Random-forest as classifier. Classified the common web elements with a mean accuracy of 97.4%
 <br><br>

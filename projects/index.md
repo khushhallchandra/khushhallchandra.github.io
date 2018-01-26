@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Projects and Internships
+title: Projects
 tags: [khushhall, chandra, mahajan, contact, undergraduate, IIT, Bombay, Microsoft Research]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
-
-### Projects
 
 * **Pytorch-RL**  
 	* Built a python package based on pytorch, making easy to run state-of-the-art deep reinforcement learning algorithms.
@@ -44,8 +42,6 @@ Guide: Prof. Ajit Rajwade
 	* Implemented the algorithm for face detection, insensitive to lighting direction and facial expression
 
 	[[Code](http://homepages.iitb.ac.in/~khushhall/application-software-cell.pdf)] 
-
-### Others
 
 * **Image Mosaicing Using Fourier Shift Theorem**  
 *EE338 : Digital Signal Processing*  

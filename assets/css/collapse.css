@@ -26,5 +26,5 @@
 
 .news-table tr:hover {background-color: #f5f5f5}
 
-.affl-pic td img{ float: middle; max-width:100%; }
-.affl-pic td { font-size:.9em; border: 0px; width:20%; vertical-align: center; text-align:center; }
+.affls td img{ float: middle; max-width:100%; }
+.affls td { font-size:.9em; border: 0px; width:20%; vertical-align: center; text-align:center; }

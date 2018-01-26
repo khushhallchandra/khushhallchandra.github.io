@@ -6,24 +6,24 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-### Internships
+### Projects
 
-* **Anomaly Detection**  
-*Microsoft Research, Summer 2016*  
-Guide: Sreangsu Acharyya  
-	* Worked on a probabilistic model for detecting anomalous behavior of the system.
-	* Developed an algorithm for predicting system health using multi-dimensional time series data
-	* Produced excellent result on the real data. Got auc of 95% between the predicted labels and the ground truth
-	* Currently, preparing draft for publishing the work.
+* **Pytorch-RL**  
+	* Built a python package based on pytorch, making easy to run state-of-the-art deep reinforcement learning algorithms.
+	* Implemented algorithms such as DDPG, DDQN, CEM. pytorch-rl works with OpenAI Gym out of the box.
 <br><br>
-* **Brand Detection Using Deep Learning**  
-*Netra Inc.*  
-Guide: Ram Orungati 
-	* Worked on analyzing brand presence in videos by re-purposing the Faster R-CNN framework for brand detection
-	* Reduced number of frames-to-process by 90% using a dynamic frame selection method based on optical flow
-	* Processed the unique frames to recover 96% brand logos in the video using intensity histogram similarity measure
-    * Utilized a modified version of the above framework for implementing video content summarization
-<br><br>
+* **keras-3dgan | 3D Generative Adversarial Networks**  
+	* Implemented a NIPS 2016 paper on 3D Generative Adversarial Networks to generate 3D Objects in keras.
+	* Experimented with inverted loss, autoencoder pretraining and bias-free versions to overcome the GAN convergence problem.
+<br><br> 
+* **Hyperspectral Satellite Image Segmentation**  
+	* Worked on hyperspectral (4 and 20 band) high-resolution satellite image segmentation using convolutional encoder-decoder neural networks like SegNet.
+    * Developed an end to end pipeline achieving a mean accuracy of 82% on Zurich dataset.
+<br><br> 
+* **Carrom-RL | Reinforcement Learning**  
+	* Developed a reinforcement learning agent to play Carrom in single user and multi player settings.
+    * Explored and implemented reinforcement learning various techniques as deep Q-learning (DQN) and DDGP.
+<br><br> 
 * **Segmentation and Classification of Web UI elements**  
 *Aalto University*  
 Guide: Prof. Antti Oulasvirta
@@ -40,9 +40,6 @@ Guide: Prof. S. Sudarshan
 	* Implemented Fibonnaci heap for the dynamic execution of the Task depending upon the priority
 	* Improved efficiency of the cost metric in the PyroJ query optimizer to achieve the best plan for execution
 <br><br>
-
-### Machine Learning
-
 * **Image Recognition Using Class Specific Linear Projection**  
 *Digital Image Processing, CS 663*  
 Guide: Prof. Ajit Rajwade

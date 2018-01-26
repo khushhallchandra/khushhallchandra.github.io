@@ -13,7 +13,7 @@ I am interested in research groups working on challenging problems using Deep Le
 ----
 
 <h4 align="center">Affiliations</h4>
-<table align="center" class='affils'>
+<table align="center" class='affilsss'>
     <tr>
         <td>
             <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">

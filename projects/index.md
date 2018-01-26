@@ -12,7 +12,7 @@ comments: false
 	* Built a python package based on pytorch, making easy to run state-of-the-art deep reinforcement learning algorithms.
 	* Implemented algorithms such as DDPG, DDQN, CEM. pytorch-rl works with OpenAI Gym out of the box.
 <br><br>
-* **keras-3dgan | 3D Generative Adversarial Networks**  
+* **keras-3dgan \| 3D Generative Adversarial Networks**  
 	* Implemented a NIPS 2016 paper on 3D Generative Adversarial Networks to generate 3D Objects in keras.
 	* Experimented with inverted loss, autoencoder pretraining and bias-free versions to overcome the GAN convergence problem.
 <br><br> 
@@ -20,7 +20,7 @@ comments: false
 	* Worked on hyperspectral (4 and 20 band) high-resolution satellite image segmentation using convolutional encoder-decoder neural networks like SegNet.
     * Developed an end to end pipeline achieving a mean accuracy of 82% on Zurich dataset.
 <br><br> 
-* **Carrom-RL | Reinforcement Learning**  
+* **Carrom-RL \| Reinforcement Learning**  
 	* Developed a reinforcement learning agent to play Carrom in single user and multi player settings.
     * Explored and implemented reinforcement learning various techniques as deep Q-learning (DQN) and DDGP.
 <br><br> 

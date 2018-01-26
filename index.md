@@ -28,7 +28,7 @@ I am interested in research groups working on challenging problems using Deep Le
             <img src="/images/iitb-logo.jpeg"></a>
         </td>
         <td>
-            <a href="netra.io">
+            <a href="http://www.netra.io/">
             <img src="/images/netrafull.jpg"></a>
         </td>
     </tr>

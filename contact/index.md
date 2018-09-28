@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-tags: [khushhall, chandra, mahajan, contact, undergraduate, IIT, Bombay, Microsoft Research]
+tags: [khushhall, chandra, mahajan, contact, undergraduate, GeorgiaTech, Gatech, MSCS, ML, ML, Computer Science, IIT, Bombay, Microsoft Research, machine learning, deep learning]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---

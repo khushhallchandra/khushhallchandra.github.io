@@ -1,14 +1,16 @@
 ---
 layout: page
 title: Welcome!
-tags: [khushhall, chandra, mahajan, contact, undergraduate, IIT, Bombay, Microsoft Research, machine learning, deep learning]
+tags: [khushhall, chandra, mahajan, contact, undergraduate, GeorgiaTech, Gatech, MSCS, ML, ML, Computer Science, IIT, Bombay, Microsoft Research, machine learning, deep learning]
 modified: 2017-03-06T20:53:07.573882-04:00
 comments: false
 ---
 
-I am a senior undergraduate student pursuing (B.Tech + M.Tech) at Electrical Engineering Department, IIT Bombay with specialization in Communications and Signal Processing. I'm broadly interested in the application of Deep learning, Machine Learning, Image processing, Computer Vision.
+I am pursuing MS in CS at Georgia Tech with specialization in Machine Learning.
 
-I am interested in research groups working on challenging problems using Deep Learning.
+I graduated from IIT Bombay with dual degree(Bachelor's + Master's) in Electrical Engineering. I worked with [Prof. Amit Sethi](https://www.ee.iitb.ac.in/web/people/faculty/home/asethi) on applications of deep learning in medical image analysis.
+
+I am interested in research groups working on challenging problems using Computer Vision and Deep Learning.
 
 ----
 
@@ -16,27 +18,32 @@ I am interested in research groups working on challenging problems using Deep Le
 <table align="center" class='affilsss'>
     <tr>
         <td>
-            <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">
-            <img src="/images/msr-logo.jpg"></a>
-        </td>
-        <td>
-            <a href="http://www.aalto.fi/en/">
-            <img src="/images/aalto.svg"></a>
+            <a href="https://www.gatech.edu/">
+            <img src="/images/gt-logo.png"></a>
         </td>
         <td>
             <a href="http://www.iitb.ac.in/">
             <img src="/images/iitb-logo.jpeg"></a>
         </td>
         <td>
+            <a href="http://www.aalto.fi/en/">
+            <img src="/images/aalto.svg"></a>
+        </td>
+        <td>
             <a href="http://www.netra.io/">
             <img src="/images/netrafull.jpg"></a>
         </td>
+        <td>
+            <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">
+            <img src="/images/msr-logo.jpg"></a>
+        </td>
     </tr>
     <tr>
-        <td>Microsoft Research<br>2016</td>
+        <td>Georgia Tech<br>2018-present</td>
+        <td>IIT Bombay<br>2013-2018</td>
         <td>Aalto University<br>2017</td>
-        <td>IIT Bombay<br>2013-present</td>
         <td>Netra Inc.<br>2017</td>
+        <td>Microsoft Research<br>2016</td>
     </tr>
 </table>
 

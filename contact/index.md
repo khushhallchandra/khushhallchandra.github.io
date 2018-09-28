@@ -11,12 +11,11 @@ You can contact me at :
 **Khushhall Chandra Mahajan**  
 Email:  
 
-* khushhall [at] iitb [dot] ac [dot] in
-* kcm00000 [at] gmail [dot] com
-* khushhall [at] outlook [dot] com
+* khushhall [at] gatech [dot] edu
+* khushhallmahajan [at] gmail [dot] com
 
-Address:  
+<!-- Address:  
 226,H-6,  
 IIT-Bombay,  
 Mumbai,  
-Maharashtra, IN - 400076.  
+Maharashtra, IN - 400076.   -->

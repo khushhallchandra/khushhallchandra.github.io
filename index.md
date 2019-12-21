@@ -2,13 +2,13 @@
 layout: page
 title: Welcome!
 tags: [khushhall, chandra, mahajan, contact, undergraduate, GeorgiaTech, Gatech, MSCS, ML, ML, Computer Science, IIT, Bombay, Microsoft Research, machine learning, deep learning]
-modified: 2017-03-06T20:53:07.573882-04:00
+modified: 2019-12-21T20:53:07.573882-04:00
 comments: false
 ---
 
-I am pursuing MS in CS at Georgia Tech with specialization in Machine Learning.
+I graduted from Georgia Tech with MS in CS specializing in Machine Learning. I worked with [Prof. Thad Starner](https://www.cc.gatech.edu/home/thad/) on the Jack Watson project. I lead the team to develop the chatbot. We published our work in Learning @ Scale 2019.
 
-I graduated from IIT Bombay with dual degree(Bachelor's + Master's) in Electrical Engineering. I worked with [Prof. Amit Sethi](https://www.ee.iitb.ac.in/web/people/faculty/home/asethi) on applications of deep learning in medical image analysis.
+Previously, I completed a dual degree (Bachelor's + Master's) in Electrical Engineering from IIT Bombay. I worked with [Prof. Amit Sethi](https://www.ee.iitb.ac.in/web/people/faculty/home/asethi) on applications of deep learning in medical image analysis.
 
 I am interested in research groups working on challenging problems using Computer Vision and Deep Learning.
 
@@ -17,6 +17,10 @@ I am interested in research groups working on challenging problems using Compute
 <h4 align="center">Affiliations</h4>
 <table align="center" class='affilsss'>
     <tr>
+        <td>
+            <a href="https://www.gatech.edu/">
+            <img src="/images/fb.png"></a>
+        </td>
         <td>
             <a href="https://www.gatech.edu/">
             <img src="/images/gt-logo.png"></a>
@@ -39,7 +43,8 @@ I am interested in research groups working on challenging problems using Compute
         </td>
     </tr>
     <tr>
-        <td>Georgia Tech<br>2018-present</td>
+        <td>Facebook<br>2018</td>
+        <td>Georgia Tech<br>2018-2019</td>
         <td>IIT Bombay<br>2013-2018</td>
         <td>Aalto University<br>2017</td>
         <td>Netra Inc.<br>2017</td>

@@ -11,8 +11,8 @@ You can contact me at :
 **Khushhall Chandra Mahajan**  
 Email:  
 
-* khushhall [at] gatech [dot] edu
-* khushhallmahajan [at] gmail [dot] com
+* khushhall@outlook.com
+* khushhall@gatech.edu
 
 <!-- Address:  
 226,H-6,  

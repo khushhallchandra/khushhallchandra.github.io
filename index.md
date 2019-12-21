@@ -14,6 +14,32 @@ I am interested in research groups working on challenging problems using Compute
 
 ----
 
+<h3 align="center">News</h3>
+<table align="center">
+    <tr>
+        <td align="top"><strong>[Dec 2019]</strong></td>
+        <td> Graduated from Georgia Tech with MS in CS specializing in machine learning. 
+        </td>
+    </tr>
+    <tr>
+        <td align="top"><strong>[Jul 2019]</strong></td>
+        <td> Completed internship at Facebook. Had a great learning experience.  
+        </td>
+    </tr>
+    <tr>
+        <td align="top"><strong>[May 2019]</strong></td>
+        <td> Started my internship at Facebook, Menlo Park with the CDN team
+        </td>
+    </tr>
+    <tr>
+        <td align="top"><strong>[Jan 2019]</strong></td>
+        <td> Working as GRA with  <a href="https://www.cc.gatech.edu/home/thad/">Prof. Thad Starner</a>. Leading the team to build chatbot.
+        </td>
+    </tr>
+    </table>
+
+----
+
 <h4 align="center">Affiliations</h4>
 <table align="center" class='affilsss'>
     <tr>
@@ -51,14 +77,3 @@ I am interested in research groups working on challenging problems using Compute
         <td>Microsoft Research<br>2016</td>
     </tr>
 </table>
-
-<!-- 
-<h4 align="center">Affiliations</h4>
-<figure align="center" class="affils">
-    <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/"><img src="/images/msr-logo.jpg"></a>
-    <a href="http://www.iitb.ac.in/"><img src="/images/iitb-logo.jpeg"></a>
-</figure>
-<figure align="center" class="affils">
-    <figcaption>Microsoft Research<br>Summer 2016</figcaption>
-    <figcaption>IIT Bombay<br>2013-present</figcaption>
-</figure> -->

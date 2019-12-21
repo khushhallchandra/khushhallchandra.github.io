@@ -43,7 +43,7 @@ I am interested in research groups working on challenging problems using Compute
         </td>
     </tr>
     <tr>
-        <td>Facebook<br>2018</td>
+        <td>Facebook<br>2019</td>
         <td>Georgia Tech<br>2018-2019</td>
         <td>IIT Bombay<br>2013-2018</td>
         <td>Aalto University<br>2017</td>

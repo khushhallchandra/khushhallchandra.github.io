@@ -6,7 +6,7 @@ modified: 2020-09-12T20:53:07.573882-04:00
 comments: false
 ---
 
-I am a software engineer at Facebook working in core ads using machine learning. I graduted from Georgia Tech with MS in CS specializing in Machine Learning. I worked with [Prof. Thad Starner](https://www.cc.gatech.edu/home/thad/) on the Jack Watson project. I lead the team to develop a system to address contract cheating in online computer science education. We published our work in Learning @ Scale 2019.
+I am a software engineer at Facebook working in core ads using machine learning. I graduted from Georgia Tech with MS in CS specializing in Machine Learning. I worked with [Prof. Thad Starner](https://www.cc.gatech.edu/home/thad/) on the Jack Watson project. I lead the team to develop a system to address contract cheating in online computer science education. We published our work in Learning@Scale 2019.
 
 Previously, I completed a dual degree (Bachelor's + Master's) in Electrical Engineering from IIT Bombay. I worked with [Prof. Amit Sethi](https://www.ee.iitb.ac.in/web/people/faculty/home/asethi) on applications of deep learning in medical image analysis.
 

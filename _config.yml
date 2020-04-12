@@ -26,9 +26,9 @@ kramdown:
 owner:
   name: Khushhall Chandra Mahajan खुशहाल चंद्र महाजन 
   avatar: linkedIn4.png
-  position: MS in CS
+  position: ML@Facebook # MS in CS
   school: Georgia Tech
-  place: Atlanta, USA.
+  place: Menlo Park, USA # Atlanta, USA.
   bio: #"Dual Degree student<br/>EE Department&#13;&#10;IIT Bombay&#13;&#10;Mumbai"
   email: khushhall@outlook.com
   disqus-shortname:

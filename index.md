@@ -2,7 +2,7 @@
 layout: page
 title: Welcome!
 tags: [khushhall, chandra, mahajan, contact, undergraduate, GeorgiaTech, Gatech, MSCS, ML, ML, Computer Science, IIT, Bombay, Microsoft Research, machine learning, deep learning]
-modified: 2019-12-21T20:53:07.573882-04:00
+modified: 2020-09-12T20:53:07.573882-04:00
 comments: false
 ---
 

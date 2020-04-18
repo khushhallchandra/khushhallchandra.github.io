@@ -2,12 +2,14 @@
 layout: page
 title: My Blog
 tags: [khushhall, chandra, mahajan, blog, 3d, gan, video, tutorial]
-modified: 2016-08-08T20:53:07.573882-04:00
+modified: 2020-04-18T20:53:07.573882-04:00
 comments: false
 ---
 
 ### My Explorations:
 ----
+
+* [How not to create your resume?](resume-advice/) <br /> Apr 18, 2017|career advice
 
 * [3D Generative Adversarial Networks (3D GAN)](3dgan/) <br /> Jun 1, 2017|keras, deep learning
 

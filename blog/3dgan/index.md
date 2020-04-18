@@ -1,20 +1,30 @@
 ---
 layout: blog-page
-title: 3D Generative Adversarial Networks (3D GAN)
-tags: [khushhall, chandra, mahajan, 3d, gan, 3d-gan, tutorial]
-date: 2017-06-1 9:00:00
+title: How not to create your resume?
+tags: [khushhall, chandra, mahajan, cv, resume, advice]
+date: 2020-04-18 13:00:00
 comments: true
 mathjax: true
 ---
 
-GANs contains two seperate networks, **Generative** network and **Discriminative** network:
+->**Disclaimer: Opinions are my own**<-
 
-* A generative model tries to learn the joint probability of the input data and the corresponding label. This generator can be used to create a new data. Generative models allow a machine to create data by learning the distribution of the true data. They have potential to understand the underlying structure of the input data.
-* A discriminative model learns a function to classify the input data as real or fake. Here fake, means data produces by the generator.
+This blog aims at people creating resume targetting top tier tech companies (job/internship)and for higher studies. These advice should be applicable to other fields as well with some appropriate changes.
 
+## Background
 
-> We study the problem of 3D object generation. We propose a novel framework, namely 3D Generative Adversarial Network (3D-GAN), which generates 3D objects from a probabilistic space by leveraging recent advances in volumetric convolutional networks and generative adversarial nets. The benefits of our model are three-fold: first, the use of an adversarial criterion, instead of traditional heuristic criteria, enables the generator to capture object structure implicitly and to synthesize high-quality 3D objects; second, the generator establishes a mapping from a low-dimensional probabilistic space to the space of 3D objects, so that we can sample objects without a reference image or CAD models, and explore the 3D object manifold; third, the adversarial discriminator provides a powerful 3D shape descriptor which, learned without supervision, has wide applications in 3D object recognition. Experiments demonstrate that our method generates high-quality 3D objects, and our unsupervisedly learned features achieve impressive performance on 3D object recognition, comparable with those of supervised learning methods.
+In the last few years during my undergraduate and masters, I have reviewed several resumes targetting for jobs, internships and higher studies. Many of the resumes have strong content but they totally miss on its presentation. For ex: One of my friends resume had very strong content but it lacked good wording showing the impact of the work. Hence, was not able to get calls for the interview. We made significant changes in the resume and was able to get multiple interview call and finally joined Google full-time. This is not a one-off incident. There are several such examples.
 
+## What to consider?
+
+First, lets think for a moment that you are a recruiter. What qualities would you look for in the resume? I can think of the following:
+- Good academic track record (if student)
+- Impactful projects 
+- Good description of non-generic stuffs
+- Reducing redundancy
+- Ordering of the projects to catch recruiter's eye.
+
+The resume is a very costly real-estate. Think twice before you put anything there and the relative ordering of the contents. 
 
 
 <div id="disqus_thread"></div>

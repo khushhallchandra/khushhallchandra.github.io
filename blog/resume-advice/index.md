@@ -7,7 +7,7 @@ comments: true
 mathjax: true
 ---
 
-->**Disclaimer: Opinions are my own**<-
+**Disclaimer: Opinions are my own**
 
 This blog aims at people creating resume targetting top tier tech companies (job/internship)and for higher studies. These advice should be applicable to other fields as well with some appropriate changes.
 

@@ -13,26 +13,28 @@ This blog aims at people creating resume targetting top tier tech companies (job
 
 ## Background
 
-In the last few years during my undergraduate and masters, I have reviewed several resumes targetting for jobs, internships and higher studies. Many of the resumes have strong content but they totally miss on its presentation. For ex: One of my friends resume had very strong content but it lacked good wording showing the impact of the work. Hence, was not able to get calls for the interview. We made significant changes in the resume and was able to get multiple interview call and finally joined Google full-time. This is not a one-off incident. There are several such examples.
+In the last few years during my undergraduate and masters, I have reviewed several resumes targetting for jobs, internships and higher studies. Many of the resumes have strong content but they totally miss on its presentation. For ex: One of my friends resume had very strong content but it lacked good presentation showing the impact of the work. Hence, was not able to get calls for the interview. We made significant changes in the resume and was able to get multiple interview call and finally joined Google full-time. This is not a one-off incident. There are several such examples.
 
 ## What to consider?
 
 First, lets think for a moment that you are a recruiter. What qualities would you look for in the resume? I can think of the following:
+
 - Ordering of the projects to catch recruiter's eye.
 - Good academic track record (if student)
-- Projects 
+- Projects
 - Good description of non-generic stuffs
 - Reducing redundancy
 
 ## Ordering
 
 The resume is a very costly real-estate. Think twice before you put anything there and the relative ordering of the contents.
+
 - Don't put technical skills at top. The project in itself should speak about your skillsets. If you still want it put at bottom half of the resume.
 - Don't explain too much about well know things such as TAship in detail. Everyone reading your resume knows roughly the kind of work a TA does. Don't spend more than one line on it.
 
 ## Projects
 
-- Its very important to describe your projects well. This is the key part of your resume. Don't be generic at descibing it. Be very careful about it and describe each project within 2-3 points. 
+- Its very important to describe your projects well. This is the key part of your resume. Don't be generic at descibing it. Be very careful about it and describe each project within 2-3 points.
 - Mention what impact the project created. Let me explain it by example. Consider this point: "Trained a neural network on the PASCAL VOC dataset." This point doesn't give much information. A better way would be "Trained a resnet based neural network model on PASCAL VOC dataset with accuracy of 85%"
 
 <div id="disqus_thread"></div>

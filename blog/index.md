@@ -9,7 +9,7 @@ comments: false
 ### My Explorations:
 ----
 
-* [How not to create your resume?](resume-advice/) <br /> Apr 19, 2020|career advice
+<!-- * [How not to create your resume?](resume-advice/) <br /> Apr 19, 2020|career advice -->
 
 * [3D Generative Adversarial Networks (3D GAN)](3dgan/) <br /> Jun 1, 2017|keras, deep learning
 

@@ -14,7 +14,8 @@ Videos acquired by handheld cameras or smartphones often appear jerky or shaky d
 The code can found [here](https://github.com/khushhallchandra/Computer-Vision-Assignment/tree/master/assignment_3/4/)
 
 Following is the sample output:
-<iframe src="https://www.youtube.com/watch?v=_ppjaVgVFro" width="640" height="480" style="display:block; margin: 0 auto;">&nbsp;</iframe>
+
+<iframe width="966" height="395" src="https://www.youtube.com/embed/_ppjaVgVFro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div id="disqus_thread"></div>
 <script>

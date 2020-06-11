@@ -9,17 +9,16 @@ mathjax: true
 
 **Disclaimer: Opinions are my own**
 
-This blog aims at people creating resume targetting top tier tech companies (job/internship)and for higher studies. These advice should be applicable to other fields as well with appropriate changes.
+This blog aims at people creating resume targetting top tier tech companies (job/internship) and for higher studies. These advice should be applicable to other fields as well with appropriate changes.
 
 ## Background
 
-In the last few years during my undergraduate and masters, I have reviewed several resumes targetting for jobs, internships and higher studies. Many of the resumes have strong content but they totally miss on its presentation. For ex: One of my friends resume had very strong content but it lacked good presentation showing the impact of the work. Hence, was not able to get calls for the interview. We made significant changes in the resume and was able to get multiple interview call and finally joined Google full-time. This is not a one-off incident. There are several such examples.
+In the last few years during my undergraduate and masters, I have reviewed several resumes aiming for jobs, internships and higher studies. Many of the resumes have strong content but totally miss on its presentation. For ex: One of my friends resume had very strong content but it lacked good presentation showing the impact of the work. Hence, was not able to get calls for the interview. We made significant changes in the resume and was able to get multiple interview call and finally joined Google full-time. This is not a one-off example. I encountered several such cases.
 
 ## What to consider?
 
 First, lets think for a moment that you are a recruiter. What qualities would you look for in the resume? I can think of the following:
 
-- Ordering of the projects to catch recruiter's eye.
 - Good academic track record (if student)
 - Projects
 - Good description of non-generic stuffs

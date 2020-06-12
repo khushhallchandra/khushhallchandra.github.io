@@ -1,8 +1,8 @@
 ---
 layout: blog-page
-title: How not to create your resume?
+title: Making an awesome resume
 tags: [khushhall, chandra, mahajan, cv, resume, advice]
-date: 2020-04-18 13:00:00
+date: 2020-06-08 13:00:00
 comments: true
 mathjax: true
 ---

@@ -2,7 +2,7 @@
 
 title: ""
 locale: en_US
-url: https://www.khushhall.com #https://khushhallchandra.github.io
+url: https://www.khushhall.com # https://khushhallchandra.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -27,7 +27,7 @@ owner:
   name: Khushhall Chandra Mahajan खुशहाल चंद्र महाजन 
   avatar: linkedIn4.png
   position: Software Engineer # MS in CS
-  school: Facebook # Georgia Tech
+  school: Facebook Inc. # Georgia Tech
   place: Menlo Park, USA # Atlanta, USA.
   bio: #"Dual Degree student<br/>EE Department&#13;&#10;IIT Bombay&#13;&#10;Mumbai"
   email: khushhall@outlook.com
@@ -43,7 +43,7 @@ owner:
   bing-verify:
   github: khushhallchandra
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin:  khushhall
+  linkedin: khushhall
   xing: #username
   instagram: #username
   lastfm: #username
@@ -52,7 +52,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: KhushhallChandraMahajan
+  youtube: # KhushhallChandraMahajan
   soundcloud: #username
   weibo: #username
   flickr: #username

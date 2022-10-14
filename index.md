@@ -17,6 +17,26 @@ I am interested in research groups working on challenging problems using Compute
 <h3 align="center">News</h3>
 <table align="center">
     <tr>
+        <td align="top"><strong>[Nov 2022]</strong></td>
+        <td> Got accepted as a reviewer for [WWW 2023]([https://ecir2023.org/](https://www2023.thewebconf.org/about/committee/)) conference on the industry track.
+        </td>
+    </tr>
+    <tr>
+        <td align="top"><strong>[Oct 2022]</strong></td>
+        <td> Got accepted as a reviewer for [ECIR 2023](https://ecir2023.org/) conference.
+        </td>
+    </tr>
+    <tr>
+        <td align="top"><strong>[Sep 2022]</strong></td>
+        <td> Got accepted as a reviewer for [AISTATS 2023](http://aistats.org/aistats2023/) conference.
+        </td>
+    </tr>
+    <tr>
+        <td align="top"><strong>[Sep 2022]</strong></td>
+        <td> Attended [Recsys 2022](https://recsys.acm.org/recsys22/program/) conference in Seattle. Met lots of researcher and formed good connections. 
+        </td>
+    </tr>
+    <tr>
         <td align="top"><strong>[Feb 2020]</strong></td>
         <td> Joined Facebook, Menlo Park full-time as Software Engineer. 
         </td>

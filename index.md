@@ -17,6 +17,11 @@ I am interested in research groups working on challenging problems using Compute
 <h3 align="center">News</h3>
 <table align="center">
     <tr>
+        <td align="top"><strong>[Jan 2023]</strong></td>
+        <td> Listed as ML researcher at <a href="https://research.facebook.com/people/mahajan-khushhall-chandra/"> Meta research </a>.
+        </td>
+    </tr>
+    <tr>
         <td align="top"><strong>[Nov 2022]</strong></td>
         <td> Got accepted as a reviewer for <a href="https://www2023.thewebconf.org/about/committee/"> WWW 2023 </a> conference on the industry track.
         </td>
@@ -33,7 +38,7 @@ I am interested in research groups working on challenging problems using Compute
     </tr>
     <tr>
         <td align="top"><strong>[Sep 2022]</strong></td>
-        <td> Attended <a href="https://recsys.acm.org/recsys22/program/">Recsys 2022</a> conference in Seattle. Met lots of researcher and formed good connections. 
+        <td> Attended <a href="https://recsys.acm.org/recsys22/program/">Recsys 2022</a> conference in Seattle.
         </td>
     </tr>
     <tr>

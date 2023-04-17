@@ -30,7 +30,7 @@ I am interested in research groups working on challenging problems in Recommenda
     
     <tr>
         <td align="top"><strong>[Apr 2023]</strong></td>
-        <td> Invited to be program committee of the <a href="https://ecai2023.eu/"> ECAI 2023 </a> "Prestigious Applications of Intelligent Systems"
+        <td> Invited to be program committee of <a href="https://ecai2023.eu/"> ECAI 2023 </a> "Prestigious Applications of Intelligent Systems"
         </td>
     </tr>
     

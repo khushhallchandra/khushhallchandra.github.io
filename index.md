@@ -18,7 +18,7 @@ I am interested in research groups working on challenging problems in Recommenda
 <table align="center">
     <tr>
         <td align="top"><strong>[Apr 2023]</strong></td>
-        <td> My paper <a href="https://arxiv.org/abs/2304.06844"> PIE: Personalized Interest Exploration for Large-Scale Recommender Systems </a> listed at arxiv
+        <td>  <a href="https://arxiv.org/abs/2304.06844"> PIE: Personalized Interest Exploration for Large-Scale Recommender Systems </a> listed at arxiv
         </td>
     </tr>
     
@@ -74,16 +74,20 @@ I am interested in research groups working on challenging problems in Recommenda
         <td> Graduated from Georgia Tech with MS in CS specializing in machine learning
         </td>
     </tr>
+    
     <tr>
         <td align="top"><strong>[Jul 2019]</strong></td>
         <td> Completed internship at Facebook. Had a great learning experience
         </td>
     </tr>
+    
     <tr>
         <td align="top"><strong>[May 2019]</strong></td>
-        <td> Started my internship at Facebook, Menlo Park with the CDN team
+        <td> 
+            Started my internship at Facebook, Menlo Park with the CDN team
         </td>
     </tr>
+    
     <tr>
         <td align="top"><strong>[Jan 2019]</strong></td>
         <td> Working as GRA with  <a href="https://www.cc.gatech.edu/home/thad/">Prof. Thad Starner</a>. Leading the team to build chatbot.

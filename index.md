@@ -18,65 +18,65 @@ I am interested in research groups working on challenging problems in Recommenda
 <table align="center">
     <tr>
         <td align="top"><strong>[Apr 2023]</strong></td>
-        <td> My paper <a href="https://arxiv.org/abs/2304.06844"> PIE: Personalized Interest Exploration for Large-Scale Recommender Systems </a> listed at arxiv.
+        <td> My paper <a href="https://arxiv.org/abs/2304.06844"> PIE: Personalized Interest Exploration for Large-Scale Recommender Systems </a> listed at arxiv
         </td>
     </tr>
     
     <tr>
         <td align="top"><strong>[Apr 2023]</strong></td>
-        <td> Invited to serve as a reviewer in the <a href="https://neurips.cc/"> NeurIPS 2023</a> conference. Excited to be part of it.
+        <td> Invited to serve as a reviewer in the <a href="https://neurips.cc/"> NeurIPS 2023</a> conference. Excited to be part of it
         </td>
     </tr>
     
     <tr>
         <td align="top"><strong>[Apr 2023]</strong></td>
-        <td> Invited to be a program committee of the <a href="https://ecai2023.eu/"> ECAI 2023 </a> "Prestigious Applications of Intelligent Systems".
+        <td> Invited to be program committee of the <a href="https://ecai2023.eu/"> ECAI 2023 </a> "Prestigious Applications of Intelligent Systems"
         </td>
     </tr>
     
     <tr>
         <td align="top"><strong>[Mar 2023]</strong></td>
-        <td> Organisizing <a href="https://www.videorecsys.com/organizers"> VideoRecSys Workshop </a> being held in conjunction with <a href="[https://www.videorecsys.com/organizers](https://recsys.acm.org/recsys23/)"> Recsys 2023 </a>.  
+        <td> Organisizing <a href="https://www.videorecsys.com/organizers"> VideoRecSys Workshop </a> being held in conjunction with <a href="[https://www.videorecsys.com/organizers](https://recsys.acm.org/recsys23/)"> Recsys 2023 </a>
         </td>
     </tr>
     <tr>
         <td align="top"><strong>[Jan 2023]</strong></td>
-        <td> Listed as ML researcher at <a href="https://research.facebook.com/people/mahajan-khushhall-chandra/"> Meta research </a>.
+        <td> Listed as ML researcher at <a href="https://research.facebook.com/people/mahajan-khushhall-chandra/"> Meta research </a>
         </td>
     </tr>
     <tr>
         <td align="top"><strong>[Nov 2022]</strong></td>
-        <td> Got accepted as a reviewer for <a href="https://www2023.thewebconf.org/about/committee/"> WWW 2023 </a> conference on the industry track.
+        <td> Got accepted as a reviewer for <a href="https://www2023.thewebconf.org/about/committee/"> WWW 2023 </a> conference on the industry track
         </td>
     </tr>
     <tr>
         <td align="top"><strong>[Oct 2022]</strong></td>
-        <td> Got accepted as reviewer for <a href="https://ecir2023.org/">ECIR 2023</a> conference.
+        <td> Got accepted as reviewer for <a href="https://ecir2023.org/">ECIR 2023</a> conference
         </td>
     </tr>
     <tr>
         <td align="top"><strong>[Sep 2022]</strong></td>
-        <td> Got accepted as a reviewer for <a href="http://aistats.org/aistats2023/">AISTATS 2023 </a> conference.
+        <td> Got accepted as a reviewer for <a href="http://aistats.org/aistats2023/">AISTATS 2023 </a> conference
         </td>
     </tr>
     <tr>
         <td align="top"><strong>[Sep 2022]</strong></td>
-        <td> Attended <a href="https://recsys.acm.org/recsys22/program/">Recsys 2022</a> conference in Seattle.
+        <td> Attended <a href="https://recsys.acm.org/recsys22/program/">Recsys 2022</a> conference in Seattle
         </td>
     </tr>
     <tr>
         <td align="top"><strong>[Feb 2020]</strong></td>
-        <td> Joined Facebook, Menlo Park full-time as Software Engineer. 
+        <td> Joined Facebook, Menlo Park full-time as Software Engineer
         </td>
     </tr>
     <tr>
         <td align="top"><strong>[Dec 2019]</strong></td>
-        <td> Graduated from Georgia Tech with MS in CS specializing in machine learning. 
+        <td> Graduated from Georgia Tech with MS in CS specializing in machine learning
         </td>
     </tr>
     <tr>
         <td align="top"><strong>[Jul 2019]</strong></td>
-        <td> Completed internship at Facebook. Had a great learning experience.  
+        <td> Completed internship at Facebook. Had a great learning experience
         </td>
     </tr>
     <tr>

@@ -18,7 +18,7 @@ I am interested in research groups working on challenging problems in Recommenda
 <table align="center">
     <tr>
         <td align="top"><strong>[Apr 2023]</strong></td>
-        <td> My paper <a href="https://arxiv.org/abs/2304.06844"> PIE: Personalized Interest Exploration for Large-Scale Recommender Systems </a> got listed at arxiv.
+        <td> My paper <a href="https://arxiv.org/abs/2304.06844"> PIE: Personalized Interest Exploration for Large-Scale Recommender Systems </a> listed at arxiv.
         </td>
     </tr>
     
@@ -30,12 +30,12 @@ I am interested in research groups working on challenging problems in Recommenda
     
     <tr>
         <td align="top"><strong>[Apr 2023]</strong></td>
-        <td> Invited to participate as program committee of the <a href="https://ecai2023.eu/"> ECAI 2023 </a> "Prestigious Applications of Intelligent Systems" conference</a>.
+        <td> Invited to be a program committee of the <a href="https://ecai2023.eu/"> ECAI 2023 </a> "Prestigious Applications of Intelligent Systems".
         </td>
     </tr>
     
     <tr>
-        <td align="top"><strong>[March 2023]</strong></td>
+        <td align="top"><strong>[Mar 2023]</strong></td>
         <td> Organisizing <a href="https://www.videorecsys.com/organizers"> VideoRecSys Workshop </a> being held in conjunction with <a href="[https://www.videorecsys.com/organizers](https://recsys.acm.org/recsys23/)"> Recsys 2023 </a>.  
         </td>
     </tr>

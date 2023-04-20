@@ -6,7 +6,7 @@ modified: 2020-09-12T20:53:07.573882-04:00
 comments: false
 ---
 
-I am a Machine learning Engineer and Researcher working in the recommendation systems. Currently, I work in the Video Recommendations team at Meta, where I am responsible for developing cutting-edge ML algorithms. This directly enhance the accuracy and impact of video recommendations used by billions of users worldwide. His algorithms power the recommendation engine for Facebook Watch and Reels, which reaches over 1.25 billion users monthly (as of September 2020). Prior to this role, I was in the Ads team developing innovative Ads solutions drove top-line revenue for the company.
+I am a Machine learning Engineer and Researcher working in the recommendation systems. Currently, I work in the Video Recommendations team at Meta, where I am responsible for developing cutting-edge ML algorithms. This directly enhance the accuracy and impact of video recommendations used by billions of users worldwide. His algorithms power the recommendation engine for [Facebook Watch](https://en.wikipedia.org/wiki/Facebook_Watch) and [Reels](https://en.wikipedia.org/wiki/Facebook_Reels), which reaches over 1.25 billion users monthly (as of September 2020). Prior to this role, I was in the Ads team developing innovative Ads solutions drove top-line revenue for the company.
 
 I graduted from Georgia Tech with MS in CS specializing in Machine Learning. I worked with [Prof. Thad Starner](https://www.cc.gatech.edu/home/thad/) on the Jack Watson project. I lead the team to develop a system to address contract cheating in online CS education. We published our work in Learning@Scale 2019. Previously, I completed a dual degree (Bachelor's + Master's) in Electrical Engineering from IIT Bombay. I worked with [Prof. Amit Sethi](https://www.ee.iitb.ac.in/web/people/faculty/home/asethi) on applications of deep learning in medical image analysis.
 
@@ -16,6 +16,19 @@ I am interested in research groups working on challenging problems in Recommenda
 
 <h3 align="center">News</h3>
 <table align="center">
+
+    <tr>
+        <td align="top"><strong>[Apr 2023]</strong></td>
+        <td>  Invited to be a speaker at <a href="https://www.bigdata-toronto.com/the-speakers"> The AnnualMeeting Of Big Data & AI Leaders In Canada</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td align="top"><strong>[Apr 2023]</strong></td>
+        <td>  My paper <a href="https://arxiv.org/abs/2304.08435"> CAViaR: Context Aware Video Recommendations </a> got listed at arxiv
+        </td>
+    </tr>
+    
     <tr>
         <td align="top"><strong>[Apr 2023]</strong></td>
         <td>  <a href="https://arxiv.org/abs/2304.06844"> PIE: Personalized Interest Exploration for Large-Scale Recommender Systems </a> listed at arxiv
@@ -39,6 +52,13 @@ I am interested in research groups working on challenging problems in Recommenda
         <td> Organisizing <a href="https://www.videorecsys.com/organizers"> VideoRecSys Workshop </a> being held in conjunction with <a href="[https://www.videorecsys.com/organizers](https://recsys.acm.org/recsys23/)"> Recsys 2023 </a>
         </td>
     </tr>
+    
+    <tr>
+        <td align="top"><strong>[Mar 2023]</strong></td>
+        <td> Chairing a session on E-commerce and Click-Through Rate Prediction in the  <a href="https://www2023.thewebconf.org/program/program-overview/"> TheWebConf 2023  </a> 
+        </td>
+    </tr>
+    
     <tr>
         <td align="top"><strong>[Jan 2023]</strong></td>
         <td> Listed as ML researcher at <a href="https://research.facebook.com/people/mahajan-khushhall-chandra/"> Meta research </a>
@@ -46,17 +66,17 @@ I am interested in research groups working on challenging problems in Recommenda
     </tr>
     <tr>
         <td align="top"><strong>[Nov 2022]</strong></td>
-        <td> Got accepted as a reviewer for <a href="https://www2023.thewebconf.org/about/committee/"> WWW 2023 </a> conference on the industry track
+        <td> Invited as a reviewer for <a href="https://www2023.thewebconf.org/about/committee/"> WWW 2023 </a> conference on the industry track
         </td>
     </tr>
     <tr>
         <td align="top"><strong>[Oct 2022]</strong></td>
-        <td> Got accepted as reviewer for <a href="https://ecir2023.org/">ECIR 2023</a> conference
+        <td> Invited as reviewer for <a href="https://ecir2023.org/">ECIR 2023</a> conference
         </td>
     </tr>
     <tr>
         <td align="top"><strong>[Sep 2022]</strong></td>
-        <td> Got accepted as a reviewer for <a href="http://aistats.org/aistats2023/">AISTATS 2023 </a> conference
+        <td> Invited as a reviewer for <a href="http://aistats.org/aistats2023/">AISTATS 2023 </a> conference
         </td>
     </tr>
     <tr>

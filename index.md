@@ -113,6 +113,13 @@ I am interested in research groups working on challenging problems in Recommenda
         <td> Working as GRA with  <a href="https://www.cc.gatech.edu/home/thad/">Prof. Thad Starner</a>. Leading the team to build chatbot.
         </td>
     </tr>
+    
+    <tr>
+        <td align="top"><strong>[Jul 2014]</strong></td>
+        <td> <a href="http://idid.in/">Built</a> the <a href="https://en.wikipedia.org/wiki/Swarachakra">Swarachakra</a> Android App. Downloaded over a million times in the <a href="https://play.google.com/store/apps/details?id=iit.android.swarachakraMarathi">play store</a>.
+        </td>
+    </tr>
+    
     </table>
 
 ----

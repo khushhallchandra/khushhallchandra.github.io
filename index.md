@@ -18,6 +18,12 @@ I am interested in research groups working on challenging problems in Recommenda
 <table align="center">
 
     <tr>
+        <td align="top"><strong>[May 2023]</strong></td>
+        <td>  Presented <a href="https://arxiv.org/abs/2304.08435"> CAViaR</a> paper at <a href="https://www2023.thewebconf.org/about/committee/"> WWW 2023 </a> conference at Austin.
+        </td>
+    </tr>
+    
+    <tr>
         <td align="top"><strong>[Apr 2023]</strong></td>
         <td>  Invited to be a speaker at <a href="https://www.bigdata-toronto.com/the-speakers"> The AnnualMeeting Of Big Data & AI Leaders In Canada</a>
         </td>

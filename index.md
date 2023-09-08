@@ -18,6 +18,33 @@ I am interested in research groups working on challenging problems in Recommenda
 <table align="center">
 
     <tr>
+        <td align="top"><strong>[Aug 2023]</strong></td>
+        <td> Invited to serve as a reviewer in the <a href="https://iclr.cc/"> ICLR 2024 </a> conference. Excited to be part of it.
+        </td>
+    </tr>
+    
+
+    <tr>
+        <td align="top"><strong>[Aug 2023]</strong></td>
+        <td> Invited to be in Program Committee (PC) in the <a href="https://www.ecir2024.org/"> ECIR 2024 </a> conference.
+        </td>
+    </tr>
+
+
+    <tr>
+        <td align="top"><strong>[Jul 2023]</strong></td>
+        <td> Invited to be program committee of <a href="https://uobevents.eventsair.com/cikm2023/"> CIKM 2023 </a> conference.
+        </td>
+    </tr>
+    
+    <tr>
+        <td align="top"><strong>[July 2023]</strong></td>
+        <td>  Organising the <a href="https://videorecsys.com/"> VideoRecSys workshop</a> in the <a href="https://recsys.acm.org/recsys23/"> RecSys 2023 </a> conference at Singapore.
+        </td>
+    </tr>
+
+    
+    <tr>
         <td align="top"><strong>[May 2023]</strong></td>
         <td>  Presented <a href="https://arxiv.org/abs/2304.08435"> CAViaR</a> paper at <a href="https://www2023.thewebconf.org/about/committee/"> WWW 2023 </a> conference at Austin.
         </td>

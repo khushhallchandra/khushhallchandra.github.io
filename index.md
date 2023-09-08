@@ -33,7 +33,7 @@ I am interested in research groups working on challenging problems in Recommenda
 
     <tr>
         <td align="top"><strong>[Jul 2023]</strong></td>
-        <td> Invited to be program committee of <a href="https://uobevents.eventsair.com/cikm2023/"> CIKM 2023 </a> conference.
+        <td> Invited to be in program committee of <a href="https://uobevents.eventsair.com/cikm2023/"> CIKM 2023 </a> conference.
         </td>
     </tr>
     

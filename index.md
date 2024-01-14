@@ -17,6 +17,31 @@ I am interested in research groups working on challenging problems in Recommenda
 <h3 align="center">News</h3>
 <table align="center">
 
+
+    <tr>
+        <td align="top"><strong>[Oct 2023]</strong></td>
+        <td> Talked about Exploration in Recommender Systems at <a href="https://mlconf.com/speakers/khushhall-chandra-mahajan/"> MLconf 2023 </a> conference.
+        </td>
+    </tr>
+
+    <tr>
+        <td align="top"><strong>[Oct 2023]</strong></td>
+        <td> Gave a talk at <a href="https://www.bigdata-toronto.com/the-speakers/643f32015546e90068a19fd0"> The AnnualMeeting Of Big Data & AI Leaders In Canada</a>. Discussed about Advancements in Billion-Scale video recommender systems.
+        </td>
+    </tr>
+
+    <tr>
+        <td align="top"><strong>[Sept 2023]</strong></td>
+        <td>  Organised the <a href="https://videorecsys.com/"> VideoRecSys workshop</a> in the <a href="https://recsys.acm.org/recsys23/"> RecSys 2023 </a> conference at Singapore. The workshop was widely attended and the recorded video could be found <a href="https://www.youtube.com/@VideoRecSys/featured"> here </a>
+        </td>
+    </tr>
+
+    <tr>
+        <td align="top"><strong>[Sept 2023]</strong></td>
+        <td> Invited by <a href="https://www.hadylauw.com/">Prof. Hady W. Lauw </a>, SMU Singapore and <a href="https://kdd.sg/2023/09/14/unlocking-personalization-in-large-scale-recommendations/"> KDD singapore</a> for a talk. Discussed about Unlocking Personalization in Large-Scale Recommendations.
+        </td>
+    </tr>
+    
     <tr>
         <td align="top"><strong>[Aug 2023]</strong></td>
         <td> Invited to serve as a reviewer in the <a href="https://iclr.cc/"> ICLR 2024 </a> conference. Excited to be part of it.

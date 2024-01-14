@@ -32,7 +32,7 @@ I am interested in research groups working on challenging problems in Recommenda
 
     <tr>
         <td align="top"><strong>[Sept 2023]</strong></td>
-        <td>  Organised the <a href="https://videorecsys.com/"> VideoRecSys workshop</a> in the <a href="https://recsys.acm.org/recsys23/"> RecSys 2023 </a> conference at Singapore. <a href="https://www.youtube.com/@VideoRecSys/featured"> Recorded Session</a>
+        <td>  Organised the <a href="https://videorecsys.com/"> VideoRecSys workshop</a> in the <a href="https://recsys.acm.org/recsys23/"> RecSys 2023 </a> conference. <a href="https://www.youtube.com/@VideoRecSys/featured"> Recorded Session</a>
         </td>
     </tr>
 

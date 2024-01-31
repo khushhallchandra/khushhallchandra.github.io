@@ -17,6 +17,11 @@ I am interested in research groups working on challenging problems in Recommenda
 <h3 align="center">News</h3>
 <table align="center">
 
+    <tr>
+        <td align="top"><strong>[Jan 2023]</strong></td>
+        <td> ML researcher profile at <a href="https://ai.meta.com/people/khushhall-chandra-mahajan/"> Meta AI </a>
+        </td>
+    </tr>
 
     <tr>
         <td align="top"><strong>[Oct 2023]</strong></td>
@@ -117,11 +122,6 @@ I am interested in research groups working on challenging problems in Recommenda
         </td>
     </tr>
     
-    <tr>
-        <td align="top"><strong>[Jan 2023]</strong></td>
-        <td> Listed as ML researcher at <a href="https://research.facebook.com/people/mahajan-khushhall-chandra/"> Meta research </a>
-        </td>
-    </tr>
     <tr>
         <td align="top"><strong>[Nov 2022]</strong></td>
         <td> Invited as a reviewer for <a href="https://www2023.thewebconf.org/about/committee/"> WWW 2023 </a> conference on the industry track
